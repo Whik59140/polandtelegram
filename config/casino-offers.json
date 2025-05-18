@@ -1,0 +1,18 @@
+[
+  {
+    "id": "stake",
+    "name": "Stake",
+    "logoUrl": "/casino/stake.png",
+    "affiliateUrl": "https://stake.com/?c=uDSrZ1gx",
+    "bonusOffer": "€300 BONUS",
+    "vpnInfo": "VPN (es. Singapore) richiesto in Europa per bonus/giochi."
+  },
+  {
+    "id": "bcgame",
+    "name": "BC Game",
+    "logoUrl": "/casino/bcgame.png",
+    "affiliateUrl": "https://bcgame32.com/i-3aohf1yfi-n/",
+    "bonusOffer": "€500 BONUS",
+    "vpnInfo": "VPN (es. Singapore) richiesto in Europa per bonus/giochi."
+  }
+] 

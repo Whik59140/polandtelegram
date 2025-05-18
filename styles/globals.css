@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 205 100% 50%; /* Telegram Blue */
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 205 100% 50%; /* Telegram Blue for focus rings */
+
+    --radius: 0.5rem;
+
+    /* Custom Telegram Theme Colors */
+    --tg-bg: 220 13% 95%; /* Light Gray BG */
+    --tg-text: 220 10% 25%; /* Dark Gray Text */
+    --tg-link: 205 100% 50%; /* Telegram Blue */
+    --tg-button: 205 90% 55%; /* Slightly darker blue for buttons */
+    --tg-button-text: 0 0% 100%; /* White text for buttons */
+    --tg-secondary-bg: 0 0% 100%; /* White for cards/secondary elements */
+    --tg-border: 220 10% 85%; /* Light border color */
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 205 90% 55%; /* Adjusted Telegram Blue for dark mode */
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 205 90% 55%; /* Adjusted Telegram Blue for focus rings in dark mode */
+
+    /* Custom Telegram Theme Colors - Dark Mode */
+    --tg-bg: 220 15% 15%; /* Dark Gray BG */
+    --tg-text: 220 10% 80%; /* Light Gray Text */
+    --tg-link: 205 90% 65%; /* Lighter Telegram Blue for dark mode links */
+    --tg-button: 205 80% 60%; /* Lighter blue for buttons in dark mode */
+    --tg-button-text: 0 0% 100%; /* White text for buttons */
+    --tg-secondary-bg: 220 15% 20%; /* Slightly lighter dark gray for cards */
+    --tg-border: 220 10% 30%; /* Darker border color */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+     /* Apply Telegram theme custom variables */
+    @apply bg-[oklch(var(--tg-bg))] text-[oklch(var(--tg-text))];
+  }
+
+  a {
+    @apply text-[oklch(var(--tg-link))];
+  }
+  
+  .btn-primary {
+    @apply bg-[oklch(var(--tg-button))] text-[oklch(var(--tg-button-text))];
+  }
+
+  .card-custom {
+     @apply bg-[oklch(var(--tg-secondary-bg))] border-[oklch(var(--tg-border))];
+  }
+}
+
+/* Custom Animations */
+@layer utilities {
+  @keyframes subtle-pulse {
+    0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(var(--primary), 0.4); }
+    50% { transform: scale(1.02); box-shadow: 0 0 5px 3px rgba(var(--primary), 0.2); }
+  }
+  .animate-subtle-pulse {
+    animation: subtle-pulse 2s infinite ease-in-out;
+  }
+} 

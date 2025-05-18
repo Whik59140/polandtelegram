@@ -1,0 +1,58 @@
+[
+  {
+    "id": "big-dick",
+    "name": "🍆 Cazzo Grande",
+    "url": "https://nplink.net/638u88km",
+    "description": "Prodotti per l'ingrandimento del pene.",
+    "tags": ["enhancement", "male", "product"],
+    "imageUrl": "/nutra/big-dick.webp",
+    "discountPercentage": 70,
+    "currentPrice": 49.99,
+    "originalPrice": 166.63,
+    "isBestSeller": true
+  },
+  {
+    "id": "better-erection",
+    "name": "🚀 Erezione Migliore",
+    "url": "https://nplink.net/dc78zw3w",
+    "description": "Migliora la tua erezione.",
+    "tags": ["enhancement", "erection", "product"],
+    "imageUrl": "/nutra/better-erection.webp",
+    "discountPercentage": 70,
+    "currentPrice": 49.99,
+    "originalPrice": 166.63
+  },
+  {
+    "id": "fat-burn",
+    "name": "🔥 Brucia Grassi",
+    "url": "https://nplink.net/lg13jn6u",
+    "description": "Prodotti per bruciare i grassi.",
+    "tags": ["health", "fitness", "product"],
+    "imageUrl": "/nutra/fat-burn.webp",
+    "discountPercentage": 70,
+    "currentPrice": 49.99,
+    "originalPrice": 166.63
+  },
+  {
+    "id": "extreme-bulk",
+    "name": "💪 Massa Estrema",
+    "url": "https://nplink.net/ua2pp501",
+    "description": "Aumenta la massa muscolare.",
+    "tags": ["fitness", "bodybuilding", "product"],
+    "imageUrl": "/nutra/extreme-bulk.webp",
+    "discountPercentage": 70,
+    "currentPrice": 49.99,
+    "originalPrice": 166.63
+  },
+  {
+    "id": "hair-loss",
+    "name": "👨‍🦲 Perdita Capelli",
+    "url": "https://nplink.net/cpzgab1t",
+    "description": "Soluzioni per la caduta dei capelli.",
+    "tags": ["health", "hair", "product"],
+    "imageUrl": "/nutra/hair-loss.webp",
+    "discountPercentage": 70,
+    "currentPrice": 49.99,
+    "originalPrice": 166.63
+  }
+]

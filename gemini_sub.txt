@@ -1,0 +1,72 @@
+--- a/gemini_sub_original.txt
++++ b/gemini_sub_corrected.txt
+@@ -24,20 +24,17 @@
+ Your entire output for *each* subcategory MUST be valid Markdown and in `{{ target_language_name }}`.
+ The content will be wrapped in specific tags for parsing.
+ 
+--1.  **Main Heading**:
+--    *   Use a Level 1 Markdown heading: `# {{ subcategory_name_localized }}`
+--    *   Replace placeholders with the provided localized names, site name, and flag. Ensure the heading text itself is plain and does not contain markdown like `**`.
+-
+--2.  **Detailed Description Section**:
+--    You MUST first output the literal Markdown string `**Detailed Description:**` followed by a single newline. This exact string is critical for parsing and MUST NOT be translated or altered.
+--    AFTER outputting that marker, then generate the detailed description for the subcategory (AT LEAST 500 words, in `{{ target_language_name }}`).
++<start_description>
++# {{ subcategory_name_localized }}
++
++[WRITE THE DETAILED DESCRIPTION OF THE SUBCATEGORY HERE IN {{ target_language_name }}]
++
++The description must:
+     *   This description should be comprehensive and authoritative, aiming to be pillar content for the `{{ subcategory_name_localized }}` niche on `{{ site_name }}`.
+     *   Go beyond a simple definition. Discuss nuances of the subcategory, related interests or fetishes, tips for finding the best Telegram channels/groups within this niche, and what makes this specific subcategory appealing or unique.
+     *   Ensure the description naturally mentions `{{ site_name }}` (e.g., "Here on {{ site_name }}, our {{ subcategory_name_localized }} section offers...").
+@@ -52,24 +49,21 @@
+          *   **Outbound Links to Niche-Relevant Sites:** Include 1-2 Markdown links to external, high-authority, **strictly niche-relevant informational websites**. These should be well-known portals, reputable industry blogs within the adult entertainment sphere, or popular dating apps (e.g., Tinder, Bumble, Happn if contextually appropriate). **AVOID** linking to general security websites, non-adult content sites, or direct competitors. (e.g., `[Visit ReputableAdultSite](https://reputableadultsite.com)`).
+     *   Sprinkle relevant emojis throughout the `{{ target_language_name }}` description.
++<end_description>
+ 
+--3.  **FAQ Section**:
+--    *   Start with the literal text: `**Frequently Asked Questions (FAQ) about {{ subcategory_name_localized }} on {{ site_name }}:**` (on its own line). Replace placeholders.
+--    *   Generate 8-10 relevant FAQs in `{{ target_language_name }}`. Each FAQ MUST use HTML `<details>` and `<summary>` tags for an accordion style.
+--    *   Example for one FAQ:
+--        ```html
+--        <details>
+--        <summary>🤔 Question about {{ subcategory_name_localized }} on {{ site_name }} with emoji?</summary>
+--        Detailed and useful answer text. Use emojis. (This answer should be in `{{ target_language_name }}`)
+--        </details>
+--        ```
++<start_faq_title>
++Frequently Asked Questions about {{ subcategory_name_localized }} on {{ site_name }}
++<end_faq_title>
++
++<start_faq>
++[GENERATE 8-10 RELEVANT FAQS HERE IN {{ target_language_name }}]
++Each FAQ should be in the format:
++`NUMBER. **Question text {{ subcategory_name_localized }} on {{ site_name }}?**`
++`Answer text for the question. Use emojis. (This answer should be in {{ target_language_name }})`
++
++Example for one FAQ:
++`1. **🤔 What is {{ subcategory_name_localized }} on {{ site_name }}?**`
++`Detailed and useful answer text. Use emojis. This answer is in {{ target_language_name }}.`
++
+     *   Specifically, include these questions (adapted with placeholders, questions and answers in `{{ target_language_name }}`), ensuring `{{ site_name }}` is mentioned where contextually appropriate:
+         *   `What exactly will I find in the {{ subcategory_name_localized }} {{ parent_category_name_localized }} section on {{ site_name }}?`
+         *   `Is it safe to explore content from {{ subcategory_name_localized }} on {{ site_name }}?`
+@@ -80,10 +74,7 @@
+         *   `Is there an age limit for {{ subcategory_name_localized }} {{ parent_category_name_localized }} on {{ site_name }}?`
+     *   In addition to the specific questions listed above, add 2-4 more unique and relevant FAQs for this subcategory. Some of these additional questions should be inspired by the types of questions users often search for or that might appear in Google's 'People Also Ask' section for the keywords `{{ subcategory_name_localized }} {{ parent_category_name_localized }}`. Ensure these PAA-style questions are framed naturally and answered comprehensively in the context of `{{ site_name }}` and in `{{ target_language_name }}`.
+-
+--4.  **End Marker**:
+--    *   End the content for each subcategory with a horizontal rule (`---`).
++<end_faq>
+
+ **Content Guidelines (for the `{{ target_language_name }}` output):**
+ *   Language: Fluent, natural, engaging `{{ target_language_name }}`.
+@@ -95,7 +86,7 @@
+ *   Interlinking: Implement the specified interlinking strategy thoroughly and naturally within the `{{ target_language_name }}` text.
+ *   Emojis: Integrate naturally. ✨🔞🍑🤔🚀💰🔄
+ *   Adult Focus: Content for 18+. Language appropriate for `{{ site_name }}`.
+-*   Structure Adherence: Strictly follow Markdown, especially FAQ accordions.
++*   Structure Adherence: Strictly follow Markdown and the specified start/end tags for description and FAQ sections.
+
+ **Example of how I will provide input for one subcategory (ensure your script sends exactly this structure, including `other_parent_categories` and `related_subcategories_data` if applicable, with slugs having NO leading slash in the JSON):**

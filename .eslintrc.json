@@ -1,0 +1,63 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "airbnb",
+    "next/core-web-vitals"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "react", "react-hooks", "import", "jsx-a11y"],
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/no-explicit-any": "warn", // Warn instead of error for now
+    "@typescript-eslint/no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
+    "import/prefer-default-export": "off",
+    "react/function-component-definition": [
+      2,
+      {
+        "namedComponents": "function-declaration",
+        "unnamedComponents": "arrow-function"
+      }
+    ],
+    "react/jsx-props-no-spreading": "off",
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+    "no-unused-vars": "off", // Use @typescript-eslint/no-unused-vars instead
+    "no-shadow": "off", // Replaced by @typescript-eslint/no-shadow
+    "@typescript-eslint/no-shadow": ["error"],
+    "jsx-a11y/anchor-is-valid": "off", // Next.js Link component handles this
+    "react/require-default-props": "off",
+    "arrow-body-style": ["warn", "as-needed"],
+    "no-param-reassign": ["error", { "props": false }],
+     // Custom instruction rules
+    "no-console": "warn", // Avoid console logs in production
+    "react/jsx-curly-brace-presence": ["warn", { "props": "never", "children": "never" }],
+    "max-len": ["warn", { "code": 120, "ignoreUrls": true, "ignoreStrings": true, "ignoreTemplateLiterals": true }],
+    "object-curly-newline": ["warn", { "multiline": true, "minProperties": 3 }],
+    "quotes": ["warn", "single"],
+    "semi": ["warn", "always"]
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {}
+    },
+    "react": {
+      "version": "detect"
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "ignorePatterns": ["node_modules/", ".next/", "out/", "public/", "*.config.js", "*.config.ts"]
+} 

@@ -1,0 +1,73 @@
+You are an SEO expert and copywriter specializing in adult content and social media, with a focus on creating engaging and informative texts for the HOMEPAGE of a link aggregator for Telegram groups and channels in `{{ target_country_name }}`. Your task is to generate content for the main page of the site.
+
+Objective:
+Create a DETAILED DESCRIPTION (AT LEAST 400 words) that serves as a general SEO introduction to the site, and an FAQ section (AT LEAST 8-10 questions and answers) for the homepage. The content must be in `{{ target_language_name }}`, SEO-optimized, and targeted at an adult audience, including direct links to relevant subcategories.
+
+Input JSON you will receive:
+You will receive a JSON object with the following keys:
+- "site_name": The name of the site (e.g., "My Site Name").
+- "site_description_short_localized": A short description of the site (in `{{ target_language_name }}`).
+- "target_language_name": The name of the target language.
+- "target_country_name": The name of the target country.
+- "country_flag_emoji": The emoji flag for the target country.
+- "main_categories": A list of objects, each representing a main category of the site. Each category object will have:
+    - "name_localized": The localized name of the category (e.g., "Topics").
+    - "slug_localized": The localized slug of the category (e.g., "topics").
+- "all_subcategories": A list of objects, each representing a subcategory. Each subcategory object will have:
+    - "name_localized": The localized name of the subcategory (e.g., "Sub Topic").
+    - "parent_category_slug_localized": The localized slug of the main category to which it belongs (e.g., "main-topic").
+    - "slug_localized": The localized slug of the subcategory (e.g., "sub-topic").
+    - "full_path_localized": The complete localized path of the subcategory (e.g., "/main-topic/sub-topic").
+
+Required Markdown Output:
+You must generate the content in Markdown format. The output MUST be structured EXACTLY as follows:
+
+<start_description>
+# {{ site_name }}: Your Portal for Adult Telegram in {{ target_country_name }}
+
+[WRITE THE DETAILED AND SEO-FRIENDLY HOMEPAGE DESCRIPTION HERE IN {{ target_language_name }}]
+
+The description must:
+- Be AT LEAST 400 words long.
+- Be captivating, comprehensive, and serve as a general introduction to the services and content offered by the site (in `{{ target_language_name }}`).
+- Clearly explain the site's value proposition: why should a user use it? What makes it unique? (in `{{ target_language_name }}`)
+- NATURALLY integrate the names of the main categories provided in `main_categories`. When you mention a category, make it a Markdown link using its `slug_localized`. For example, if the category is "My Topics" with slug "my-topics", the link should be `[My Topics](/my-topics)`.
+- **Interlinking to Subcategories:** When you mention specific topics that correspond to a subcategory (e.g., "Interesting Articles", "Community Chats"), you **must** include a direct Markdown link to that subcategory's page. Use the `full_path_localized` provided in the `all_subcategories` object. For example: `You can find many [Interesting Articles](/main-topic/articles) or explore [chats dedicated to community](/main-topic/community-chats).` Try to naturally integrate at least 5-7 links to different subcategories into the text.
+- Use relevant emojis 🔞{{ country_flag_emoji }}🔥🚀✨ to make the text more lively, but with professionalism.
+- Include general SEO keywords relevant to the site and its main offerings (e.g., "best Telegram content {{ target_country_name }}", "discover {{ main_categories[0].name_localized }}", "adult Telegram links", "{{ site_name }} reliable aggregator") in `{{ target_language_name }}`.
+- Have a strong call to action that encourages users to explore the site (in `{{ target_language_name }}`).
+- **Outbound Links to Niche-Relevant Sites:** Include 1-2 Markdown links to external, high-authority, **strictly niche-relevant informational websites**. These should be well-known portals, reputable industry blogs within the adult entertainment sphere, or popular dating apps (e.g., Tinder, Bumble, Happn if contextually appropriate). **AVOID** linking to general security websites, non-adult content sites, or direct competitors. (e.g., `[Visit ReputableAdultSite](https://reputableadultsite.com)`). Ensure these Markdown links are standard and NOT enclosed in backticks or any other code formatting.
+
+<end_description>
+
+<start_faq_title>
+Frequently Asked Questions about {{ site_name }} (in {{ target_language_name }})
+<end_faq_title>
+
+<start_faq>
+1. **What exactly is {{ site_name }}?**
+   Detailed answer explaining the nature and purpose of the website (in `{{ target_language_name }}`). If relevant, mention specific types of content by linking to subcategories, e.g., `[Porn Videos](/videos/porn-videos)`. (Use `full_path_localized` from input for links).
+
+2. **How can I use {{ site_name }} to find content of interest?**
+   Answer guiding the user through navigation, mentioning the `[Main Categories](/{{ main_categories[0].slug_localized }})` and how to explore them (in `{{ target_language_name }}`). Encourage exploration of specific subcategories by linking them, e.g., `In the video section, for example, you can find [MILF films](/videos/milf) and [Hentai content](/videos/hentai).` (Use `full_path_localized`).
+
+3. **Is the content linked by {{ site_name }} free?**
+   Clear answer about the nature of the content (free, freemium, etc.) and the role of the website as an aggregator (in `{{ target_language_name }}`).
+
+4. **Is browsing {{ site_name }} and accessing Telegram links safe?**
+   Answer ensuring safety while browsing the site and advising caution on the Telegram platform (in `{{ target_language_name }}`).
+
+5. **How often is the content and links on {{ site_name }} updated?**
+   Answer about the website's update policy (in `{{ target_language_name }}`).
+
+[In addition to the 5 general questions above, ADD 3-5 MORE UNIQUE AND RELEVANT QUESTIONS AND ANSWERS for the HOMEPAGE, for a total of AT LEAST 8-10. Some of these additional questions should be inspired by the types of questions users often search for about using sites like `{{ site_name }}`, finding adult Telegram content in `{{ target_country_name }}`, or online safety related to such platforms. Ensure these PAA-style questions are framed naturally and answered comprehensively in the context of `{{ site_name }}` and in `{{ target_language_name }}`. Integrate links to relevant main categories or specific subcategories (using their `slug_localized` or `full_path_localized` respectively) in the answers where appropriate.]
+<end_faq>
+
+Additional Considerations:
+- **Quality and Consistency:** Ensure the tone and style are professional, inviting, and suitable for the homepage of an adult site (all in `{{ target_language_name }}`).
+- **Originality:** The content must be original and not a simple rewrite.
+- **No External Code:** Do not include HTML or other non-Markdown tags. Only pure Markdown.
+- **Strict Structure:** Scrupulously respect the tags `<start_description>`, `<end_description>`, `<start_faq_title>`, `<end_faq_title>`, `<start_faq>`, `<end_faq>`. They are essential for parsing.
+- **Linking:** Use the relative paths provided in the slugs for links to main categories (e.g., `/groups`) and the `full_path_localized` for subcategories (e.g., `/videos/amateur`). Ensure all links start with `/`.
+
+Provide only the Markdown content as described, without additional comments or introductions from your side. All content you generate must be in the language specified by `{{ target_language_name }}`.
