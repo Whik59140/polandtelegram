@@ -56,7 +56,7 @@ Znalezienie odpowiednich miejsc na Telegramie może wymagać trochę wysiłku, a
 *   **Katalogi grup Telegram:** Istnieją strony internetowe i kanały na Telegramie, które agregują linki do różnych grup. Warto poszukać takich katalogów.
 *   **Polecenia:** Jeśli masz znajomych w społeczności, zapytaj o polecenia. To często najlepszy sposób na znalezienie sprawdzonych i bezpiecznych miejsc.
 *   **Fora i inne społeczności online:** Czasami linki do grup Telegram są udostępniane na forach internetowych lub w innych grupach społecznościowych dedykowanych osobom LGBTQ+.
-*   **Nasza platforma:** Możesz również eksplorować różne kategorie na `telegram-polska.com`. Choć nie zawsze znajdziesz tam bezpośrednio grupy randkowe, przeglądając [grupy Telegram z Katowic](/grupy/katowice) lub nasze ogólne [kanały Telegram](/kanaly) możesz natrafić na społeczności, które będą dla Ciebie interesujące lub wskażą Ci dalszą drogę.
+*   **Nasza platforma:** Możesz również eksplorować różne kategorie na `polska-telegram.pl`. Choć nie zawsze znajdziesz tam bezpośrednio grupy randkowe, przeglądając [grupy Telegram z Katowic](/grupy/katowice) lub nasze ogólne [kanały Telegram](/kanaly) możesz natrafić na społeczności, które będą dla Ciebie interesujące lub wskażą Ci dalszą drogę.
 
 **Jak rozpoznać wartościową grupę?**
 *   Aktywni moderatorzy i jasne zasady.

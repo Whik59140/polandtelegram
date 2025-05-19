@@ -57,7 +57,7 @@ Znalezienie odpowiednich grup na Telegramie może wydawać się wyzwaniem, ale z
     *   "Bydgoszcz Telegram randki"
     *   Możesz też dodać rok, np. "Randki Bydgoszcz 2026", aby znaleźć grupy zorientowane na przyszłość.
 2.  **Sprawdzaj opisy grup:** Zanim dołączysz, przeczytaj opis grupy. Powinien on jasno określać cel grupy, jej zasady i dla kogo jest przeznaczona.
-3.  **Szukaj w katalogach online:** Istnieją strony internetowe (takie jak nasza, `telegram-polska.com` 😉) specjalizujące się w katalogowaniu grup na Telegramie. To świetne źródło, aby odkryć nowe, aktywne społeczności.
+3.  **Szukaj w katalogach online:** Istnieją strony internetowe (takie jak nasza, `polska-telegram.pl` 😉) specjalizujące się w katalogowaniu grup na Telegramie. To świetne źródło, aby odkryć nowe, aktywne społeczności.
 4.  **Pytaj znajomych:** Może ktoś z Twoich znajomych już korzysta z takich grup i może Ci coś polecić?
 5.  **Zwróć uwagę na liczbę członków i aktywność:** Duża liczba członków nie zawsze oznacza jakość, ale aktywna dyskusja w grupie to dobry znak.
 

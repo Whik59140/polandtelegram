@@ -49,7 +49,7 @@ Bezpieczeństwo przede wszystkim! Zanim rzucisz się w wir telegramowych przygó
 4.  **Ostrożność przy klikaniu w linki:** Nie klikaj w podejrzane linki ani nie pobieraj plików z nieznanych źródeł, nawet jeśli pochodzą od kogoś z grupy. Mogą zawierać złośliwe oprogramowanie.
 5.  **Świadomość ryzyka:** Bądź świadomy istnienia catfishing'u (podszywania się pod kogoś innego), oszustw i prób wyłudzenia pieniędzy. Jeśli coś wydaje się zbyt piękne, aby było prawdziwe, prawdopodobnie tak właśnie jest.
 
-Dbając o te podstawy, znacznie zwiększasz swoje bezpieczeństwo. Po więcej porad zapraszamy do naszej ogólnej sekcji [Telegram Bezpieczeństwo](/telegram-bezpieczenstwo) na telegram-polska.com, gdzie znajdziesz wskazówki dotyczące bezpiecznego korzystania z aplikacji.
+Dbając o te podstawy, znacznie zwiększasz swoje bezpieczeństwo. Po więcej porad zapraszamy do naszej ogólnej sekcji [Telegram Bezpieczeństwo](/telegram-bezpieczenstwo) na polska-telegram.pl, gdzie znajdziesz wskazówki dotyczące bezpiecznego korzystania z aplikacji.
 
 ## Kryteria wyboru najlepszych aktywnych grup NSFW dla mężczyzn 🧐
 
@@ -105,7 +105,7 @@ Telegram w 2026 roku z pewnością pozostanie atrakcyjnym miejscem dla mężczyz
 
 Pamiętaj o kryteriach wyboru, zwracaj uwagę na czerwone flagi i zawsze podchodź do nowych znajomości z rozsądkiem. Korzystaj z możliwości, jakie daje Telegram, ale rób to świadomie. Życzymy wielu ekscytujących (i bezpiecznych!) odkryć w świecie telegramowych przygód! 😉
 
-Zachęcamy do regularnego odwiedzania **telegram-polska.com** po aktualne listy i przewodniki po najlepszych grupach na Telegramie!
+Zachęcamy do regularnego odwiedzania **polska-telegram.pl** po aktualne listy i przewodniki po najlepszych grupach na Telegramie!
 
 **Guidance for SEO & Frontmatter Elements:**
 

@@ -42,7 +42,7 @@ Te cechy sprawiają, że Telegram jest idealnym miejscem do tworzenia bezpieczny
 Znalezienie odpowiedniej grupy może wydawać się wyzwaniem, ale jest kilka sprawdzonych sposobów, aby dotrzeć do tych wartościowych. 🧐 Oto kilka wskazówek:
 
 1.  **Wyszukiwarka w Telegramie:** Użyj trafnych słów kluczowych. Spróbuj fraz takich jak: "trans Polska", "transseksualizm", "LGBTQ+ Polska", "wsparcie trans", "grupa trans". Czasem warto dodać miasto, jeśli szukasz lokalnej społeczności.
-2.  **Katalogi grup online:** Istnieją strony internetowe agregujące linki do grup Telegram. Przeszukaj nasze [kategorie grup Telegram na telegram-polska.com](/kategorie), aby znaleźć interesujące Cię społeczności. Być może znajdziesz tam również grupy dedykowane tematyce LGBTQ+.
+2.  **Katalogi grup online:** Istnieją strony internetowe agregujące linki do grup Telegram. Przeszukaj nasze [kategorie grup Telegram na polska-telegram.pl](/kategorie), aby znaleźć interesujące Cię społeczności. Być może znajdziesz tam również grupy dedykowane tematyce LGBTQ+.
 3.  **Pytaj o rekomendacje:** Jeśli jesteś już częścią innych bezpiecznych przestrzeni online (fora, grupy na innych platformach), zapytaj o polecane grupy Telegram. Osobiste rekomendacje są często najcenniejsze. 👍
 4.  **Media społecznościowe i fora:** Czasami linki do grup są udostępniane na profilach organizacji LGBTQ+ lub w tematycznych wątkach na forach internetowych.
 
@@ -65,7 +65,7 @@ Pamiętaj, Twoje bezpieczeństwo i komfort są najważniejsze. Nie bój się opu
 Społeczności trans na Telegramie są różnorodne i odpowiadają na wiele potrzeb. Oto kilka popularnych typów grup, jakie możesz znaleźć:
 
 *   **Grupy wsparcia i dyskusyjne:** Miejsca, gdzie można podzielić się swoimi doświadczeniami, zadać pytania, uzyskać wsparcie emocjonalne i porady od osób, które rozumieją specyfikę życia jako osoba transseksualna. 💬🫂
-*   **Grupy towarzyskie i randkowe:** Skupione na nawiązywaniu nowych znajomości, przyjaźni, a czasem także relacji romantycznych. Jeśli szukasz grup o takim profilu, możesz sprawdzić naszą sekcję [Randki na Telegramie](/randki) na `telegram-polska.com`, gdzie być może znajdziesz coś dla siebie. Pamiętaj jednak, aby zawsze dbać o swoje bezpieczeństwo podczas nawiązywania nowych znajomości online.
+*   **Grupy towarzyskie i randkowe:** Skupione na nawiązywaniu nowych znajomości, przyjaźni, a czasem także relacji romantycznych. Jeśli szukasz grup o takim profilu, możesz sprawdzić naszą sekcję [Randki na Telegramie](/randki) na `polska-telegram.pl`, gdzie być może znajdziesz coś dla siebie. Pamiętaj jednak, aby zawsze dbać o swoje bezpieczeństwo podczas nawiązywania nowych znajomości online.
 *   **Grupy informacyjne:** Dedykowane wymianie wiedzy na temat tranzycji (medycznej, prawnej, społecznej), praw osób LGBTQ+, dostępnych zasobów i pomocy. Często prowadzone lub wspierane przez organizacje pozarządowe, takie jak [Kampania Przeciw Homofobii (KPH)](https://kph.org.pl/), która dostarcza wielu cennych informacji.
 *   **Grupy hobbystyczne i zainteresowań:** Łączą osoby transseksualne o wspólnych pasjach, np. gry, filmy, książki, sztuka. To świetny sposób na relaks i poznanie ludzi o podobnych zainteresowaniach.
 *   **Lokalne grupy regionalne:** Skupiają osoby z określonego miasta lub regionu, co ułatwia organizowanie spotkań na żywo i budowanie lokalnych więzi. 🏘️

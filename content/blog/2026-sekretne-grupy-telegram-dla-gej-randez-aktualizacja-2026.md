@@ -32,7 +32,7 @@ Telegram zyskał ogromną popularność jako platforma komunikacyjna, a jego "se
 *   **Poczucie Wspólnoty:** 🫂 Wiele grup to nie tylko miejsca do randkowania, ale także przestrzenie do budowania społeczności, dzielenia się doświadczeniami i wzajemnego wsparcia.
 *   **Mniej Ograniczeń:** W porównaniu do niektórych tradycyjnych platform, Telegram często oferuje większą swobodę w zakresie treści (oczywiście w granicach regulaminu samego Telegrama i zasad grupy).
 
-Jeśli interesuje Cię szerszy przegląd różnych społeczności, sprawdź naszą sekcję [Grupy Telegram](/grupy) na telegram-polska.com, gdzie znajdziesz katalog grup o różnorodnej tematyce.
+Jeśli interesuje Cię szerszy przegląd różnych społeczności, sprawdź naszą sekcję [Grupy Telegram](/grupy) na polska-telegram.pl, gdzie znajdziesz katalog grup o różnorodnej tematyce.
 
 ## Jak Znaleźć Najlepsze Grupy Telegram dla Gej Randek w 2026 Roku?
 

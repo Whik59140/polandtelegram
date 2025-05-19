@@ -75,7 +75,7 @@ Masz dość powierzchownych rozmów? Ta grupa zrzesza osoby ceniące sobie głę
 *   **Co oferuje?** Wymiana rekomendacji kulturalnych, dyskusje tematyczne, możliwość znalezienia kogoś, kto podziela Twoje nietypowe pasje.
 *   **Vibe:** Stymulujący, kulturalny, otwarty na wiedzę. 📚💡
 
-Jeśli szukasz szerszej gamy grup, nie tylko randkowych, sprawdź nasze [Kategorie Grup Telegram](/kategorie) na telegram-polska.com. Znajdziesz tam społeczności o najróżniejszych zainteresowaniach!
+Jeśli szukasz szerszej gamy grup, nie tylko randkowych, sprawdź nasze [Kategorie Grup Telegram](/kategorie) na polska-telegram.pl. Znajdziesz tam społeczności o najróżniejszych zainteresowaniach!
 
 ## Bezpieczeństwo podczas randkowania przez Telegram - Złote Zasady 🛡️
 Randkowanie online, niezależnie od platformy, wymaga ostrożności. Oto kilka kluczowych zasad bezpieczeństwa:
@@ -91,7 +91,7 @@ Pamiętaj, Twoje bezpieczeństwo jest najważniejsze! 🚨
 ## A co, jeśli szukam czegoś więcej niż tylko randki? 🤔
 Telegram to wszechstronne narzędzie. Może szukasz przyjaciół, grup hobbystycznych, a może czegoś z nutką pikanterii? Wiele grup oferuje przestrzeń do luźnych pogawędek, wymiany doświadczeń czy nawet bardziej niszowych interakcji. Niektóre społeczności mogą być bramą do bardziej ekskluzywnych treści lub platform oferujących unikalne doświadczenia.
 
-Na telegram-polska.com znajdziesz również [grupy dla dorosłych](/grupy/dla-doroslych) lub grupy o konkretnych zainteresowaniach, które wykraczają poza tradycyjne randkowanie. Ważne, aby zawsze podchodzić do takich grup z rozwagą i świadomością własnych granic.
+Na polska-telegram.pl znajdziesz również [grupy dla dorosłych](/grupy/dla-doroslych) lub grupy o konkretnych zainteresowaniach, które wykraczają poza tradycyjne randkowanie. Ważne, aby zawsze podchodzić do takich grup z rozwagą i świadomością własnych granic.
 
 ## Podsumowanie: Twoja łódzka przygoda z Telegramem czeka!
 Rok 2025 w Łodzi zapowiada się ekscytująco dla wszystkich singli korzystających z Telegrama! 💖 Niezależnie od tego, czy szukasz wielkiej miłości, przelotnego romansu, czy po prostu ciekawych ludzi do rozmowy, odpowiednie grupy telegramowe mogą otworzyć przed Tobą nowe drzwi.

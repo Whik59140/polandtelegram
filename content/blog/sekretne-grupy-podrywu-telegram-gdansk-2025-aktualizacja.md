@@ -47,7 +47,7 @@ Wzrost popularności Telegrama w Polsce ogólnie również przyczynia się do te
 Znalezienie *autentycznych* i wartościowych grup wymaga nieco sprytu i ostrożności. Oto kilka wskazówek na 2025 rok:
 
 1.  **Poczta pantoflowa:** Najlepszym źródłem są polecenia od zaufanych znajomych, którzy już są członkami takich grup. 🗣️
-2.  **Specjalistyczne katalogi i fora:** Istnieją strony internetowe i fora dyskusyjne, gdzie użytkownicy dzielą się linkami do grup. Należy jednak podchodzić do nich z rezerwą i weryfikować wiarygodność. Jeśli szukasz ogólniejszych grup tematycznych, sprawdź nasze [Katalogi Grup Telegram](/katalogi) na telegram-polska.com, gdzie możesz znaleźć społeczności o różnych zainteresowaniach.
+2.  **Specjalistyczne katalogi i fora:** Istnieją strony internetowe i fora dyskusyjne, gdzie użytkownicy dzielą się linkami do grup. Należy jednak podchodzić do nich z rezerwą i weryfikować wiarygodność. Jeśli szukasz ogólniejszych grup tematycznych, sprawdź nasze [Katalogi Grup Telegram](/katalogi) na polska-telegram.pl, gdzie możesz znaleźć społeczności o różnych zainteresowaniach.
 3.  **Wyszukiwarka w Telegramie:** Można próbować wyszukiwać grupy po słowach kluczowych (np. "Gdańsk spotkania", "randki Trójmiasto"), ale te "sekretne" rzadko są łatwo dostępne.
 4.  **Grupy "feederowe":** Czasem większe, bardziej ogólne grupy tematyczne (np. dotyczące wydarzeń w Gdańsku) mogą mieć podgrupy lub kanały dedykowane spotkaniom.
 

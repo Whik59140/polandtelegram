@@ -43,7 +43,7 @@ Badania pokazują, że platformy społecznościowe i komunikatory odgrywają cor
 
 Znalezienie idealnej grupy może wymagać odrobiny wysiłku, ale jest kilka sprawdzonych sposobów:
 
-1.  **Katalogi Grup Online:** Istnieją strony internetowe specjalizujące się w zbieraniu linków do grup na Telegramie. To świetny punkt startowy! Koniecznie sprawdź nasze [katalogi grup Telegram na telegram-polska.com](/grupy), gdzie regularnie aktualizujemy listy i staramy się oferować najlepsze propozycje. 👍
+1.  **Katalogi Grup Online:** Istnieją strony internetowe specjalizujące się w zbieraniu linków do grup na Telegramie. To świetny punkt startowy! Koniecznie sprawdź nasze [katalogi grup Telegram na polska-telegram.pl](/grupy), gdzie regularnie aktualizujemy listy i staramy się oferować najlepsze propozycje. 👍
 2.  **Wyszukiwarka w Telegramie:** Użyj wewnętrznej wyszukiwarki Telegrama. Wpisuj frazy kluczowe takie jak: "single Wrocław", "randki Wrocław", "Wrocławianie", "spotkania Wrocław" + ewentualnie dopisek "2025" lub "aktywne".
 3.  **Polecenia od Znajomych:** Zapytaj znajomych, czy korzystają z Telegrama i czy mogą polecić jakieś ciekawe grupy dla singli. Marketing szeptany często bywa najskuteczniejszy! 🗣️
 4.  **Media Społecznościowe i Fora:** Czasami linki do grup są udostępniane na lokalnych forach internetowych lub w grupach na Facebooku poświęconych Wrocławiowi.

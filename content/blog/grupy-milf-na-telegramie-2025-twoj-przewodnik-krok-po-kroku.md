@@ -62,7 +62,7 @@ No dobrze, przejdźmy do konkretów! Oto jak możesz podejść do poszukiwania g
 2.  **Krok 2: Szukaj w katalogach i na stronach agregujących grupy Telegram** 📚
     *   Istnieją strony internetowe i kanały na Telegramie, które specjalizują się w katalogowaniu grup. To często bezpieczniejsza i bardziej efektywna metoda.
     *   Szukaj fraz typu "katalog grup Telegram Polska" w Google.
-    *   Możesz również eksplorować nasze [katalogi grup Telegram](/grupy) na telegram-polska.com, gdzie staramy się gromadzić ciekawe i wartościowe społeczności.
+    *   Możesz również eksplorować nasze [katalogi grup Telegram](/grupy) na polska-telegram.pl, gdzie staramy się gromadzić ciekawe i wartościowe społeczności.
 
 3.  **Krok 3: Pytaj na forach i w społecznościach o podobnych zainteresowaniach** 💬
     *   Jeśli jesteś członkiem forów internetowych (np. tematycznych sekcji na [Reddit](https://www.reddit.com) czy polskich forach dyskusyjnych) lub innych grup o tematyce randkowej/społecznościowej, możesz dyskretnie zapytać o polecenia.

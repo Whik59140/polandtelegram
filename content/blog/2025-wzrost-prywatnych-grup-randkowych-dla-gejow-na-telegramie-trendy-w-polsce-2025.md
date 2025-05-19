@@ -52,7 +52,7 @@ To wszystko sprawia, że Telegram jawi się jako obiecująca alternatywa dla tra
 
 Znalezienie odpowiedniej grupy na Telegramie może być początkowo wyzwaniem, ale istnieje kilka sprawdzonych sposobów:
 
-1.  **Katalogi Grup:** Istnieją strony internetowe specjalizujące się w katalogowaniu grup na Telegramie. Warto poszukać w katalogach takich jak nasza strona [telegram-polska.com](/grupy), gdzie staramy się gromadzić wartościowe i bezpieczne społeczności. Możesz tam znaleźć również dedykowane sekcje, na przykład [Randki Gejowskie](/grupy/randki-gejowskie), które ułatwią Ci poszukiwania.
+1.  **Katalogi Grup:** Istnieją strony internetowe specjalizujące się w katalogowaniu grup na Telegramie. Warto poszukać w katalogach takich jak nasza strona [polska-telegram.pl](/grupy), gdzie staramy się gromadzić wartościowe i bezpieczne społeczności. Możesz tam znaleźć również dedykowane sekcje, na przykład [Randki Gejowskie](/grupy/randki-gejowskie), które ułatwią Ci poszukiwania.
 2.  **Polecenia od Znajomych:** Jeśli masz znajomych, którzy już korzystają z Telegrama w celach towarzyskich, zapytaj ich o polecenie sprawdzonych grup. To często najlepszy sposób na trafienie do zaufanej społeczności. 👍
 3.  **Wyszukiwarki Internetowe:** Używaj ostrożnie. Możesz wpisać frazy typu "grupy Telegram geje Polska" lub "prywatne grupy randkowe Telegram", ale zawsze weryfikuj znalezione linki i grupy przed dołączeniem.
 4.  **Media Społecznościowe i Fora:** Czasem linki do grup Telegram są udostępniane na innych platformach społecznościowych lub forach dedykowanych społeczności LGBT+.

@@ -38,7 +38,7 @@ Telegram zyskał ogromną popularność jako platforma komunikacyjna, a jego zal
 Znalezienie odpowiednich grup może na początku wydawać się wyzwaniem, ale jest kilka sprawdzonych sposobów:
 
 1.  **Wyszukiwarka w aplikacji Telegram:** To najprostszy sposób. Wpisuj frazy kluczowe takie jak: "trans Poznań", "randki trans Poznań", "LGBTQ+ Poznań Telegram", "Poznań trans community". Bądź kreatywny/a i próbuj różnych kombinacji! 🔍
-2.  **Katalogi online i strony agregujące:** Istnieją strony internetowe i fora (takie jak `telegram-polska.com`), które gromadzą linki do różnych grup na Telegramie. Warto regularnie sprawdzać nasze [Grupy Telegram](/grupy), gdzie staramy się prezentować wartościowe społeczności.
+2.  **Katalogi online i strony agregujące:** Istnieją strony internetowe i fora (takie jak `polska-telegram.pl`), które gromadzą linki do różnych grup na Telegramie. Warto regularnie sprawdzać nasze [Grupy Telegram](/grupy), gdzie staramy się prezentować wartościowe społeczności.
 3.  **Polecenia od znajomych:** Jeśli masz zaufane osoby w społeczności trans lub LGBTQ+ w Poznaniu, zapytaj o rekomendacje. Często najlepsze grupy to te "z polecenia". 👍
 4.  **Media społecznościowe i fora:** Czasami linki do grup Telegram są udostępniane na innych platformach społecznościowych (np. w grupach na Facebooku dedykowanych osobom trans) lub specjalistycznych forach internetowych.
 

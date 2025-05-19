@@ -73,7 +73,7 @@ Pamiętaj, że celem jest znalezienie miejsca, gdzie poczujesz się komfortowo i
 
 **Jak szukać takich kanałów?**
 *   Używaj wyszukiwarki Telegrama, wpisując frazy kluczowe typu: "randki [Twoje miasto]", "single hetero", "zweryfikowane randki Telegram", "aktywne grupy randkowe".
-*   Sprawdzaj katalogi grup i kanałów Telegram, takie jak `telegram-polska.com`, gdzie możesz znaleźć posegregowane i czasem zrecenzowane propozycje. Przeglądając różne [Randki](/randki) na naszej stronie, możesz natrafić na coś dla siebie. (Uwaga: link `/randki` jest przykładowy, dostosuj do struktury serwisu).
+*   Sprawdzaj katalogi grup i kanałów Telegram, takie jak `polska-telegram.pl`, gdzie możesz znaleźć posegregowane i czasem zrecenzowane propozycje. Przeglądając różne [Randki](/randki) na naszej stronie, możesz natrafić na coś dla siebie. (Uwaga: link `/randki` jest przykładowy, dostosuj do struktury serwisu).
 
 Pamiętaj, że znalezienie "tego jedynego" kanału może wymagać trochę cierpliwości i testowania. Nie zniechęcaj się! ✨
 
@@ -117,7 +117,7 @@ Telegram otwiera przed singlami heteroseksualnymi w 2025 roku nowe, ekscytujące
 
 Pamiętaj, aby podchodzić do tego z otwartą głową, ale także z dużą dozą ostrożności. Zawsze stawiaj swoje bezpieczeństwo na pierwszym miejscu, weryfikuj informacje i ufaj swojej intuicji. Kluczem jest znalezienie kanału, który odpowiada Twoim oczekiwaniom i gdzie poczujesz się komfortowo.
 
-Nie bój się eksperymentować, dołączać do różnych grup i inicjować rozmowy. Kto wie, może właśnie na jednym z kanałów Telegram czeka na Ciebie ktoś wyjątkowy? Życzymy powodzenia i wielu inspirujących znajomości! 👍 Powodzenia w odkrywaniu [najlepszych kanałów Telegram dla randek](/) na `telegram-polska.com`!
+Nie bój się eksperymentować, dołączać do różnych grup i inicjować rozmowy. Kto wie, może właśnie na jednym z kanałów Telegram czeka na Ciebie ktoś wyjątkowy? Życzymy powodzenia i wielu inspirujących znajomości! 👍 Powodzenia w odkrywaniu [najlepszych kanałów Telegram dla randek](/) na `polska-telegram.pl`!
 
 
 

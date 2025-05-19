@@ -62,7 +62,7 @@ To jedna z największych sił Telegrama! Istnieją tysiące grup i kanałów na 
 *   **Kanały informacyjne:** Śledź kanały z newsami dotyczącymi społeczności LGBT+, wydarzeniami kulturalnymi czy poradami.
 *   **Możliwość tworzenia własnych społeczności:** Jeśli nie znajdziesz czegoś dla siebie, zawsze możesz założyć własną grupę!
 
-Dzięki temu łatwiej jest znaleźć osoby, które naprawdę pasują do Twoich oczekiwań i stylu życia. Zachęcamy do eksplorowania różnych społeczności – być może znajdziesz coś dla siebie w naszych [Grupach Telegram](/grupy) na telegram-polska.com.
+Dzięki temu łatwiej jest znaleźć osoby, które naprawdę pasują do Twoich oczekiwań i stylu życia. Zachęcamy do eksplorowania różnych społeczności – być może znajdziesz coś dla siebie w naszych [Grupach Telegram](/grupy) na polska-telegram.pl.
 
 ### Boty: Twoi Personalni Asystenci w Randkowaniu 🤖
 Boty na Telegramie to zautomatyzowane programy, które mogą pełnić różne funkcje – również w kontekście randkowym!

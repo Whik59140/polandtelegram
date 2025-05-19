@@ -3,8 +3,8 @@ title: 'Gejowskie randki w Gdańsku 2026: Przyszłość i wsparcie Telegramu'
 slug: gejowskie-randki-w-gdansku-2026-przyszlosc-i-wsparcie-telegramu
 metaDescription: Odkryj, jak może wyglądać życie randkowe geja w Gdańsku w 2026! Poznaj przyszłe trendy, wyzwania i rolę Telegramu w nawiązywaniu kontaktów.
 imageAltText: 'Widok na Gdańsk z perspektywą tęczowej flagi i ikoną Telegramu, symbolizujący przyszłość randek gejowskich.
-  *   **Additional Suggestion 1:** W sekcji "Praktyczne porady", zdanie "Sprawdzaj katalogi grup, takie jak te dostępne na `telegram-polska.com`." - można podlinkować `telegram-polska.com` do strony głównej lub bardziej ogólnej kategorii, np. "[katalogi grup na telegram-polska.com](/katalog-grup)" (Anchor: "katalogi grup na telegram-polska.com", Path: `/katalog-grup` - *assuming such a page exists or could be created*)
-  *   **Additional Suggestion 2:** W sekcji "Telegram jako kluczowy gracz...", zdanie "Telegram, znany ze swojego nacisku na prywatność i wszechstronne funkcje grupowe..." - słowa "wszechstronne funkcje grupowe" mogłyby linkować do artykułu lub strony na `telegram-polska.com` opisującej ogólnie funkcje grup na Telegramie, np. "[wszechstronne funkcje grupowe](/artykuly/funkcje-grup-telegram)" (Anchor: "wszechstronne funkcje grupowe", Path: `/artykuly/funkcje-grup-telegram` - *hypothetical path for an article explaining group features*).'
+  *   **Additional Suggestion 1:** W sekcji "Praktyczne porady", zdanie "Sprawdzaj katalogi grup, takie jak te dostępne na `polska-telegram.pl`." - można podlinkować `polska-telegram.pl` do strony głównej lub bardziej ogólnej kategorii, np. "[katalogi grup na polska-telegram.pl](/katalog-grup)" (Anchor: "katalogi grup na polska-telegram.pl", Path: `/katalog-grup` - *assuming such a page exists or could be created*)
+  *   **Additional Suggestion 2:** W sekcji "Telegram jako kluczowy gracz...", zdanie "Telegram, znany ze swojego nacisku na prywatność i wszechstronne funkcje grupowe..." - słowa "wszechstronne funkcje grupowe" mogłyby linkować do artykułu lub strony na `polska-telegram.pl` opisującej ogólnie funkcje grup na Telegramie, np. "[wszechstronne funkcje grupowe](/artykuly/funkcje-grup-telegram)" (Anchor: "wszechstronne funkcje grupowe", Path: `/artykuly/funkcje-grup-telegram` - *hypothetical path for an article explaining group features*).'
 tags:
 - randki gejowskie
 - Gdańsk
@@ -72,7 +72,7 @@ Telegram to potężne narzędzie, ale jak z niego mądrze korzystać, by zwięks
 1.  **Znajdź odpowiednie grupy i kanały:**
     *   Używaj słów kluczowych takich jak "Gdańsk gej", "LGBT Gdańsk", "randki gejowskie Trójmiasto" w wyszukiwarce Telegramu.
     *   Pytaj znajomych o polecane grupy.
-    *   Sprawdzaj katalogi grup, takie jak te dostępne na `telegram-polska.com`. Może znajdziesz tam dedykowaną sekcję [Randki Telegram](/randki) (jeśli taka istnieje).
+    *   Sprawdzaj katalogi grup, takie jak te dostępne na `polska-telegram.pl`. Może znajdziesz tam dedykowaną sekcję [Randki Telegram](/randki) (jeśli taka istnieje).
 2.  **Stwórz atrakcyjny (ale prawdziwy) profil:**
     *   Użyj wyraźnego, aktualnego zdjęcia profilowego (lub kilku).
     *   W opisie (bio) napisz kilka słów o sobie, swoich zainteresowaniach i czego szukasz. Bądź szczery!

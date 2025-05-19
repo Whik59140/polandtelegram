@@ -153,7 +153,7 @@ Wiele osób zna popularne platformy jak [Tinder](https://tinder.com) czy [Badoo]
 *   Jeśli chcesz poznawać ludzi przez wspólne zainteresowania.
 *   Jeśli jesteś zmęczony/a typowymi aplikacjami randkowymi i szukasz świeżego podejścia.
 
-Ostateczny wybór zależy od Twoich preferencji i tego, czego oczekujesz od randkowania online. Być może warto połączyć różne metody? 🤔 Jeśli szukasz więcej porad dotyczących efektywnego korzystania z Telegrama, zajrzyj do naszych [Poradników o Telegramie](/poradniki) na telegram-polska.com.
+Ostateczny wybór zależy od Twoich preferencji i tego, czego oczekujesz od randkowania online. Być może warto połączyć różne metody? 🤔 Jeśli szukasz więcej porad dotyczących efektywnego korzystania z Telegrama, zajrzyj do naszych [Poradników o Telegramie](/poradniki) na polska-telegram.pl.
 
 ## Podsumowanie: Twoja Przygoda z Randkowaniem na Telegramie Czeka! 🎉
 

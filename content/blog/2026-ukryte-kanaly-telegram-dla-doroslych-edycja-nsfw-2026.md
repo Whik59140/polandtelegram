@@ -55,7 +55,7 @@ Pamiętajcie, że "ukryte" nie zawsze oznacza lepsze. Ważne jest, aby podchodzi
 
 Odkrywanie "ukrytych" kanałów NSFW wymaga pewnej dozy ostrożności. Oto kilka kroków, które pomogą Ci robić to bezpiecznie:
 
-1.  **Korzystaj z zaufanych katalogów i wyszukiwarek:** Istnieją strony i boty specjalizujące się w agregowaniu linków do kanałów Telegram. Wybieraj te, które cieszą się dobrą opinią. Aby znaleźć bezpieczne i zweryfikowane opcje, sprawdź nasze [Katalogi Kanałów Telegram](/katalogi) na telegram-polska.com.
+1.  **Korzystaj z zaufanych katalogów i wyszukiwarek:** Istnieją strony i boty specjalizujące się w agregowaniu linków do kanałów Telegram. Wybieraj te, które cieszą się dobrą opinią. Aby znaleźć bezpieczne i zweryfikowane opcje, sprawdź nasze [Katalogi Kanałów Telegram](/katalogi) na polska-telegram.pl.
 2.  **Uważaj na oszustwa i złośliwe oprogramowanie:** Nie klikaj w podejrzane linki i nie pobieraj plików z nieznanych źródeł, nawet jeśli obiecują "ekskluzywne" treści. Cyberprzestępcy często wykorzystują tematykę NSFW do rozprzestrzeniania wirusów.  Malwarebytes, znana firma z branży cyberbezpieczeństwa, regularnie ostrzega przed takimi zagrożeniami ([Malwarebytes Blog](https://www.malwarebytes.com/blog) często publikuje analizy na ten temat).
 3.  **Weryfikuj kanały:** Zanim dołączysz, sprawdź liczbę subskrybentów, częstotliwość publikacji i (jeśli to możliwe) opinie innych użytkowników. Puste lub mało aktywne kanały mogą być pułapką.
 4.  **Używaj VPN dla dodatkowej prywatności:** VPN (Virtual Private Network) maskuje Twój adres IP, co może zwiększyć Twoją anonimowość w sieci. To szczególnie przydatne, jeśli chcesz zachować dyskrecję. 🛡️

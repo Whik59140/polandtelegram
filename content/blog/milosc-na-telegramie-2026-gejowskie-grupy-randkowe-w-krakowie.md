@@ -82,7 +82,7 @@ Znalezienie tej "jedynej" grupy może być jak szukanie igły w stogu siana. Dla
 *   Używaj wyszukiwarki w Telegramie, wpisując frazy takie jak "gej Kraków", "gay Krakow", "LGBT Kraków", "randki gejowskie Kraków".
 *   Pytaj znajomych, którzy już korzystają z Telegrama.
 *   Szukaj linków na forach internetowych lub w mediach społecznościowych (zawsze z ostrożnością!).
-*   Przeglądaj katalogi grup, takie jak te dostępne na `telegram-polska.com`.
+*   Przeglądaj katalogi grup, takie jak te dostępne na `polska-telegram.pl`.
 
 Pamiętaj, że niektóre grupy mogą promować wydarzenia lub usługi, które mogą być płatne – zawsze weryfikuj oferty i czytaj regulaminy grup.
 

@@ -72,7 +72,7 @@ Pamiętaj, że znalezienie idealnej grupy może zająć trochę czasu. Nie zniec
 *   **Grupy dyskusyjne i społecznościowe:** Miejsca do swobodnych rozmów na tematy związane z seksualnością, związkami, fantazjami. Często tworzą się tam silne więzi i poczucie wsparcia.
 *   **Grupy wymiany treści (zdjęcia, filmy):** Pamiętaj o zasadach bezpieczeństwa i udostępniaj treści tylko wtedy, gdy czujesz się w 100% pewnie i komfortowo.
 *   **Grupy oparte na konkretnych zainteresowaniach/fetyszach:** Dla kobiet o sprecyzowanych preferencjach, szukających osób podzielających te same pasje.
-*   **Grupy randkowe/spotkaniowe:** Skierowane na poznawanie nowych osób w celach matrymonialnych lub bardziej casualowych przygód. Wiele z nich może być ukierunkowanych lokalnie. Możesz odkryć więcej opcji, odwiedzając naszą kategorię [Grupy Telegram Randki](/grupy/randki) na telegram-polska.com.
+*   **Grupy randkowe/spotkaniowe:** Skierowane na poznawanie nowych osób w celach matrymonialnych lub bardziej casualowych przygód. Wiele z nich może być ukierunkowanych lokalnie. Możesz odkryć więcej opcji, odwiedzając naszą kategorię [Grupy Telegram Randki](/grupy/randki) na polska-telegram.pl.
 *   **Grupy role-playing (RP):** Dla miłośniczek odgrywania ról i tworzenia erotycznych historii.
 *   **Grupy edukacyjne:** Czasem można znaleźć grupy skupiające się na edukacji seksualnej, zdrowiu intymnym czy technikach.
 

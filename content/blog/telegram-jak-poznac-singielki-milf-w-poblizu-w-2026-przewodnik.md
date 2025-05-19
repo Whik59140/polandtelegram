@@ -102,7 +102,7 @@ Jeśli rozmowa dobrze się układa i czujecie wzajemną sympatię, naturalnym kr
 *   **Propozycja:** Bądź bezpośredni, ale uprzejmy. Zaproponuj coś niezobowiązującego, np. kawę, spacer. "Świetnie nam się rozmawia, może mielibyśmy ochotę kontynuować przy kawie w przyszłym tygodniu?" 🤝
 *   **Miejsce Publiczne:** Zawsze wybieraj bezpieczne, publiczne miejsce na pierwsze spotkanie. Kawiarnia, park, restauracja to dobre opcje. Poinformuj kogoś znajomego, gdzie i z kim się spotykasz.
 *   **Bądź Przygotowany na Odmowę:** Nie każdy musi być gotowy na spotkanie w tym samym czasie co Ty. Jeśli usłyszysz "nie" lub prośbę o więcej czasu, uszanuj to.
-*   **Różne Oczekiwania:** Pamiętaj, że niektórzy użytkownicy Telegramu mogą szukać jedynie rozmów online lub przyjaźni. Warto to wyczuć lub delikatnie zapytać o oczekiwania. Jeśli szukasz konkretnych typów spotkań lub rozmów, możesz też sprawdzić nasze [Kategorie Chatów](/chaty) na `telegram-polska.com`, gdzie znajdziesz różne opcje. 🥰
+*   **Różne Oczekiwania:** Pamiętaj, że niektórzy użytkownicy Telegramu mogą szukać jedynie rozmów online lub przyjaźni. Warto to wyczuć lub delikatnie zapytać o oczekiwania. Jeśli szukasz konkretnych typów spotkań lub rozmów, możesz też sprawdzić nasze [Kategorie Chatów](/chaty) na `polska-telegram.pl`, gdzie znajdziesz różne opcje. 🥰
 
 ## Trendy na 2026: Czego Spodziewać się w Świecie Randek na Telegramie? 🔮
 

@@ -108,7 +108,7 @@ Znalezienie konkretnych, publicznie dostępnych i jednocześnie wartościowych g
     *   **Co może ją wyróżniać:** Kalendarz wydarzeń, dyskusje o najlepszych miejscach na randkę w Łodzi.
     *   **Jak szukać podobnych:** "wieczory dla singli Łódź", "imprezy single Łódź".
 
-Pamiętaj, że to tylko przykłady! Kreatywność administratorów grup nie zna granic. Eksploruj, szukaj i nie bój się dołączać do różnych społeczności. Odkryj więcej opcji w naszej głównej kategorii [Grupy Telegram](/grupy) na telegram-polska.com, gdzie znajdziesz społeczności o różnych zainteresowaniach.
+Pamiętaj, że to tylko przykłady! Kreatywność administratorów grup nie zna granic. Eksploruj, szukaj i nie bój się dołączać do różnych społeczności. Odkryj więcej opcji w naszej głównej kategorii [Grupy Telegram](/grupy) na polska-telegram.pl, gdzie znajdziesz społeczności o różnych zainteresowaniach.
 
 ## Jak bezpiecznie korzystać z grup Telegram do randkowania? 🛡️
 
@@ -132,7 +132,7 @@ Telegram to świetne narzędzie, ale nie jedyne! Jeśli chcesz poszerzyć swoje 
 *   **Wydarzenia dla singli:** Speed dating, imprezy tematyczne, warsztaty – w Łodzi regularnie odbywają się eventy dedykowane osobom szukającym pary.
 *   **Grupy zainteresowań (offline):** Dołącz do klubu książki, grupy sportowej, wolontariatu. Wspólne pasje to naturalny sposób na poznanie ciekawych ludzi.
 *   **Portale społecznościowe:** Grupy na Facebooku dedykowane mieszkańcom Łodzi lub konkretnym zainteresowaniom również mogą być miejscem, gdzie kogoś poznasz.
-*   Jeśli interesują Cię również inne formy komunikacji online, sprawdź naszą sekcję [Pokoje Czat](/chat) na telegram-polska.com dla różnorodnych dyskusji i możliwości nawiązania kontaktu.
+*   Jeśli interesują Cię również inne formy komunikacji online, sprawdź naszą sekcję [Pokoje Czat](/chat) na polska-telegram.pl dla różnorodnych dyskusji i możliwości nawiązania kontaktu.
 
 Kluczem jest otwartość na różne możliwości i aktywne działanie! 🌟
 

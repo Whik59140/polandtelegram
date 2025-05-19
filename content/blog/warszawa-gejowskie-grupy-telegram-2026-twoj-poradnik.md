@@ -39,7 +39,7 @@ Coraz więcej osób docenia możliwość szybkiego dotarcia do informacji i netw
 
 Znalezienie odpowiedniej grupy to jedno, ale równie ważne jest, aby robić to bezpiecznie. Oto kilka wskazówek, jak skutecznie i ostrożnie poruszać się po świecie warszawskich gejowskich grup na Telegramie w 2026 roku:
 
-1.  **Korzystaj z Zaufanych Katalogów:** Strony takie jak nasza (`telegram-polska.com`) często weryfikują grupy przed ich dodaniem, co zwiększa szansę na znalezienie wartościowych i bezpiecznych społeczności.
+1.  **Korzystaj z Zaufanych Katalogów:** Strony takie jak nasza (`polska-telegram.pl`) często weryfikują grupy przed ich dodaniem, co zwiększa szansę na znalezienie wartościowych i bezpiecznych społeczności.
 2.  **Pytaj Znajomych:** Marketing szeptany działa cuda! Jeśli masz znajomych w społeczności, zapytaj ich o polecane grupy. 🗣️
 3.  **Analizuj Opisy Grup:** Zwróć uwagę na opis grupy, jej zasady (jeśli są publicznie dostępne przed dołączeniem) oraz liczbę członków i ich aktywność. Grupa z kilkoma członkami i brakiem aktywności może nie być tym, czego szukasz.
 4.  **Uważaj na Podejrzane Linki:** Nigdy nie klikaj w linki od nieznajomych osób lub w grupach, które wydają się podejrzane. Mogą prowadzić do phishingu lub złośliwego oprogramowania. Zawsze pamiętaj o podstawowych zasadach bezpieczeństwa online. Jak podkreśla [CERT Polska](https://www.cert.pl/ouch/), ostrożność w sieci to podstawa.

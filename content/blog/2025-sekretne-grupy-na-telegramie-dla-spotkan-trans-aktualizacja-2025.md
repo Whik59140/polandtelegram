@@ -39,7 +39,7 @@ Jak podaje [Electronic Frontier Foundation (EFF)](https://www.eff.org/issues/pri
 
 Odnalezienie tych "sekretnych" grup wymaga nieco sprytu i cierpliwości. Oto kilka sprawdzonych metod, które mogą okazać się pomocne w 2025 roku:
 
-1.  **Specjalistyczne Katalogi i Strony:** Istnieją strony internetowe i fora dedykowane społeczności LGBTQ+, które czasem publikują listy lub zaproszenia do grup na Telegramie. Przeglądając różne zasoby, warto zajrzeć na strony agregujące linki, takie jak niektóre sekcje na `telegram-polska.com`, np. nasze ogólne [Grupy Telegram Polska](/grupy), gdzie czasem można natrafić na interesujące społeczności.
+1.  **Specjalistyczne Katalogi i Strony:** Istnieją strony internetowe i fora dedykowane społeczności LGBTQ+, które czasem publikują listy lub zaproszenia do grup na Telegramie. Przeglądając różne zasoby, warto zajrzeć na strony agregujące linki, takie jak niektóre sekcje na `polska-telegram.pl`, np. nasze ogólne [Grupy Telegram Polska](/grupy), gdzie czasem można natrafić na interesujące społeczności.
 2.  **Polecenia od Zaufanych Osób:** Najbezpieczniejszym sposobem jest uzyskanie zaproszenia od kogoś, kogo znasz i komu ufasz, a kto już jest członkiem takiej grupy. Networking w ramach społeczności trans jest tutaj kluczowy. 🤝
 3.  **Ostrożne Wyszukiwanie na Telegramie:** Możesz spróbować użyć wewnętrznej wyszukiwarki Telegrama, wpisując słowa kluczowe takie jak "spotkania trans Polska", "transgender PL", "TS Polska" itp. Bądź jednak ostrożny/a i krytycznie oceniaj wyniki.
 4.  **Fora Internetowe i Grupy w Mediach Społecznościowych:** Czasem linki lub informacje o grupach pojawiają się na dedykowanych forach (np. Reddit) lub w zamkniętych grupach na innych platformach społecznościowych. Zawsze weryfikuj źródło.

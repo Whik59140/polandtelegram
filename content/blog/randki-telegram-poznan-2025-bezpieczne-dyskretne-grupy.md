@@ -36,7 +36,7 @@ Dodatkowo, funkcje takie jak tajne czaty z samozniszczalnymi wiadomościami przy
 Znalezienie odpowiednich grup randkowych na Telegramie w Poznaniu może wymagać odrobiny detektywistycznej pracy, ale jest kilka sprawdzonych sposobów:
 
 *   **Wyszukiwarki internetowe:** Użyj fraz kluczowych takich jak "grupy Telegram Poznań randki", "Telegram Poznań single", "Poznań dating Telegram". Często prowadzą one do katalogów grup lub artykułów z poleceniami.
-*   **Katalogi grup Telegram:** Istnieją strony internetowe specjalizujące się w zbieraniu linków do grup na Telegramie. Przeglądając nasze [Grupy Telegram](/grupy) na telegram-polska.com, możesz znaleźć interesujące społeczności, w tym te dedykowane randkom.
+*   **Katalogi grup Telegram:** Istnieją strony internetowe specjalizujące się w zbieraniu linków do grup na Telegramie. Przeglądając nasze [Grupy Telegram](/grupy) na polska-telegram.pl, możesz znaleźć interesujące społeczności, w tym te dedykowane randkom.
 *   **Polecenia od znajomych:** Zapytaj znajomych, czy korzystają z Telegrama w celach towarzyskich i czy mogą polecić jakieś grupy.
 *   **Wewnętrzna wyszukiwarka Telegrama:** Choć nie zawsze jest idealna, warto spróbować wyszukać grupy bezpośrednio w aplikacji, używając słów kluczowych związanych z Poznaniem i randkami.
 *   **Media społecznościowe:** Czasami linki do grup Telegram są udostępniane na innych platformach społecznościowych, np. w grupach na Facebooku dedykowanych mieszkańcom Poznania.

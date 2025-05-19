@@ -68,7 +68,7 @@ Znalezienie wartościowych i bezpiecznych grup na Telegramie wymaga nieco zaanga
 
 *   **Korzystaj z wyszukiwarki Telegrama:** Wpisuj frazy kluczowe takie jak "trans Polska", "randki trans", "LGBT Polska", "wsparcie trans".
 *   **Pytaj znajomych:** Jeśli znasz inne osoby trans, zapytaj o polecane grupy.
-*   **Sprawdzaj katalogi grup:** Istnieją strony internetowe, takie jak nasza `telegram-polska.com`, gdzie możesz przeglądać różne [Grupy Telegram](/grupy) i być może znaleźć coś dla siebie.
+*   **Sprawdzaj katalogi grup:** Istnieją strony internetowe, takie jak nasza `polska-telegram.pl`, gdzie możesz przeglądać różne [Grupy Telegram](/grupy) i być może znaleźć coś dla siebie.
 *   **Zwracaj uwagę na:**
     *   **Moderację:** Aktywna moderacja to dobry znak.
     *   **Zasady grupy:** Przeczytaj regulamin przed dołączeniem.

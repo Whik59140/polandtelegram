@@ -40,7 +40,7 @@ Pomyśl o tym – w 2026 roku te społeczności będą jeszcze bardziej rozwini�
 Znalezienie idealnej grupy może wymagać trochę poszukiwań, ale jest kilka sprawdzonych sposobów:
 
 1.  **Wyszukiwarka w Telegramie:** Użyj słów kluczowych takich jak: "samotni rodzice Wrocław", "mamy Wrocław", "tatusiowie Wrocław", "wsparcie rodzice Wrocław", "single parents Wroclaw". Spróbuj różnych kombinacji. 🔍
-2.  **Katalogi grup online:** Istnieją strony internetowe specjalizujące się w katalogowaniu grup na Telegramie. Możesz również przeglądać nasze [Kategorie Grup Telegram](/kategorie) na telegram-polska.com, aby odkryć społeczności dopasowane do Twoich zainteresowań.
+2.  **Katalogi grup online:** Istnieją strony internetowe specjalizujące się w katalogowaniu grup na Telegramie. Możesz również przeglądać nasze [Kategorie Grup Telegram](/kategorie) na polska-telegram.pl, aby odkryć społeczności dopasowane do Twoich zainteresowań.
 3.  **Pytaj znajomych i na lokalnych forach:** Może ktoś z Twoich znajomych już należy do takiej grupy lub widział polecenie na lokalnym forum internetowym czy w grupie na Facebooku poświęconej Wrocławiowi.
 4.  **Media społecznościowe:** Czasem linki do grup są udostępniane w innych mediach społecznościowych.
 5.  **Sprawdzaj opisy i liczbę członków:** Zanim dołączysz, zobacz, czy opis grupy odpowiada Twoim oczekiwaniom i jaka jest jej aktywność.

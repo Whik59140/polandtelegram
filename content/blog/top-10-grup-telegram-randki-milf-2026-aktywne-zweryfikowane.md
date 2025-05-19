@@ -32,7 +32,7 @@ Telegram, znany ze swojej szybkości, bezpieczeństwa i możliwości tworzenia d
 *   **Bezpośrednia Komunikacja:** Łatwość nawiązywania rozmów, wymiany zdjęć i filmów (oczywiście za obopólną zgodą!).
 *   **Specjalistyczne Grupy:** Możliwość znalezienia grup skupiających osoby o konkretnych preferencjach i z określonych regionów Polski.
 
-Wiele osób ceni sobie Telegram za mniejszą formalność niż tradycyjne portale randkowe. To tutaj często można znaleźć bardziej autentyczne interakcje. Jeśli interesują Cię różne rodzaje społeczności, sprawdź nasze [Grupy Telegram](/grupy) na telegram-polska.com, gdzie znajdziesz szeroki wybór kanałów na każdy temat.
+Wiele osób ceni sobie Telegram za mniejszą formalność niż tradycyjne portale randkowe. To tutaj często można znaleźć bardziej autentyczne interakcje. Jeśli interesują Cię różne rodzaje społeczności, sprawdź nasze [Grupy Telegram](/grupy) na polska-telegram.pl, gdzie znajdziesz szeroki wybór kanałów na każdy temat.
 
 ### Na Co Zwrócić Uwagę Wybierając Grupę Telegram dla Randek z MILF?
 

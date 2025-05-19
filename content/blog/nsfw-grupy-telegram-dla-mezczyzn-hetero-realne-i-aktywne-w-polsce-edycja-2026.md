@@ -56,7 +56,7 @@ Znalezienie *naprawdę* dobrej grupy NSFW to sztuka. Oto kilka wskazówek, któr
 
 Poszukiwania mogą być czasochłonne, ale są pewne miejsca, gdzie warto zacząć:
 
-*   **Specjalistyczne Katalogi i Wyszukiwarki:** Istnieją strony internetowe, które specjalizują się w zbieraniu i kategoryzowaniu linków do grup na Telegramie, w tym tych o tematyce NSFW. Warto sprawdzić nasze [Katalogi Grup Telegram](/katalogi) na telegram-polska.com, gdzie staramy się weryfikować i aktualizować dostępne społeczności. 📚
+*   **Specjalistyczne Katalogi i Wyszukiwarki:** Istnieją strony internetowe, które specjalizują się w zbieraniu i kategoryzowaniu linków do grup na Telegramie, w tym tych o tematyce NSFW. Warto sprawdzić nasze [Katalogi Grup Telegram](/katalogi) na polska-telegram.pl, gdzie staramy się weryfikować i aktualizować dostępne społeczności. 📚
 *   **Polecenia od Zaufanych Znajomych:** To często najlepsza i najbezpieczniejsza metoda, ale nie każdy ma znajomych chętnych do dzielenia się takimi linkami.
 *   **Fora Internetowe i Media Społecznościowe:** Miejsca takie jak Reddit (niektóre subreddity), czy polskie fora dyskusyjne mogą być źródłem linków. Należy jednak zachować szczególną ostrożność, ponieważ jest tam również dużo spamu i fałszywych tropów.
 *   **Wewnętrzna Wyszukiwarka Telegrama:** Można próbować szukać bezpośrednio w aplikacji, używając słów kluczowych. Efekty bywają jednak różne – często na pierwszych miejscach pojawiają się grupy o niskiej jakości lub boty.

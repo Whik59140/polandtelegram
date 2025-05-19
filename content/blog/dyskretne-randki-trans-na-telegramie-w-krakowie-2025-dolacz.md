@@ -44,7 +44,7 @@ Znalezienie odpowiednich miejsc na Telegramie wymaga odrobiny sprytu i cierpliwo
 2.  **Pytaj w zaufanych społecznościach:** Jeśli jesteś już częścią jakichś grup LGBTQ+ (nawet niekoniecznie na Telegramie), zapytaj dyskretnie o polecenie kanałów lub grup dla osób trans w Krakowie.
 3.  **Sprawdzaj opisy i regulaminy grup:** Zanim dołączysz, przeczytaj opis grupy i jej regulamin. Upewnij się, że jest to miejsce, które odpowiada Twoim oczekiwaniom i zasadom dyskrecji.
 4.  **Szukaj na zewnętrznych stronach i forach:** Czasami linki do grup na Telegramie są udostępniane na dedykowanych forach internetowych lub stronach agregujących społeczności. Pamiętaj jednak, aby zachować ostrożność i weryfikować źródła.
-5.  **Przeglądaj katalogi:** Możesz również sprawdzić [Kategorie Grup Telegram](/kategorie) na stronach takich jak `telegram-polska.com`, gdzie często można znaleźć posegregowane i zweryfikowane społeczności. 👍
+5.  **Przeglądaj katalogi:** Możesz również sprawdzić [Kategorie Grup Telegram](/kategorie) na stronach takich jak `polska-telegram.pl`, gdzie często można znaleźć posegregowane i zweryfikowane społeczności. 👍
 
 Pamiętaj, że nie wszystkie grupy będą publicznie widoczne. Czasem dostęp do bardziej prywatnych społeczności uzyskuje się poprzez zaproszenie od innego członka.
 
@@ -82,7 +82,7 @@ Kraków to miasto otwarte i pełne różnorodnych ludzi, a społeczność trans 
 *   **Wsparcie i zrozumienie:** W dedykowanych grupach trans możesz znaleźć nie tylko potencjalnych partnerów/partnerki, ale także wsparcie, zrozumienie i poczucie przynależności.
 *   **Dynamicznie rozwijająca się scena:** Rok 2025 z pewnością przyniesie dalszy rozwój społeczności online. Bądź otwarty/a na nowe grupy i możliwości.
 
-Pamiętaj, że każda interakcja jest inna. Niektóre platformy oferują różnorodne opcje dla dorosłych poszukujących specyficznych wrażeń, ale Telegram daje unikalną szansę na znalezienie połączeń w bardziej kontrolowanym i dyskretnym środowisku. Jeśli szukasz inspiracji, przejrzyj różne opcje w naszej sekcji [Randki Online](/randki) na telegram-polska.com.
+Pamiętaj, że każda interakcja jest inna. Niektóre platformy oferują różnorodne opcje dla dorosłych poszukujących specyficznych wrażeń, ale Telegram daje unikalną szansę na znalezienie połączeń w bardziej kontrolowanym i dyskretnym środowisku. Jeśli szukasz inspiracji, przejrzyj różne opcje w naszej sekcji [Randki Online](/randki) na polska-telegram.pl.
 
 ## Budowanie autentycznych relacji – więcej niż tylko spotkania
 

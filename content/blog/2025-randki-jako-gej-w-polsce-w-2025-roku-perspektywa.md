@@ -68,7 +68,7 @@ Aplikacje randkowe takie jak Tinder, Grindr, Happn czy Bumble z pewnością pozo
 *   **Bądź cierpliwy i wytrwały:** Znalezienie odpowiedniej osoby wymaga czasu. Nie zniechęcaj się początkowymi niepowodzeniami.
 *   **Korzystaj z funkcji premium z rozwagą:** Wiele aplikacji oferuje darmowe podstawowe funkcje, ale często *zaawansowane filtry czy możliwość zobaczenia, kto polubił Twój profil*, są dostępne w ramach płatnych subskrypcji. Warto rozważyć, czy takie dodatkowe opcje pomogą Ci efektywniej znaleźć to, czego szukasz.
 
-Pamiętaj, że oprócz typowych aplikacji randkowych, istnieją także fora internetowe, grupy na mediach społecznościowych czy serwisy takie jak `telegram-polska.com`, gdzie możesz znaleźć [dedykowane kanały i grupy tematyczne](/artykuly/telegram-kanal-grupa), które mogą ułatwić nawiązywanie kontaktów z osobami o podobnych zainteresowaniach.
+Pamiętaj, że oprócz typowych aplikacji randkowych, istnieją także fora internetowe, grupy na mediach społecznościowych czy serwisy takie jak `polska-telegram.pl`, gdzie możesz znaleźć [dedykowane kanały i grupy tematyczne](/artykuly/telegram-kanal-grupa), które mogą ułatwić nawiązywanie kontaktów z osobami o podobnych zainteresowaniach.
 
 ## Bezpieczeństwo Przede Wszystkim: Jak Randkować Mądrze?
 

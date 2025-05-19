@@ -49,7 +49,7 @@ Telegram posiada globalną wyszukiwarkę, która jest pierwszym miejscem, gdzie 
 **Krok 2: Korzystaj z zewnętrznych katalogów grup Telegram 📚**
 Istnieją strony internetowe i kanały na Telegramie, które specjalizują się w agregowaniu linków do różnych grup.
 *   Poszukaj w Google fraz typu "katalog grup Telegram Polska" lub "Telegram groups directory".
-*   Możesz również sprawdzić nasze [Katalogi Grup Telegram](/katalogi) na telegram-polska.com, gdzie staramy się gromadzić interesujące polskie społeczności.
+*   Możesz również sprawdzić nasze [Katalogi Grup Telegram](/katalogi) na polska-telegram.pl, gdzie staramy się gromadzić interesujące polskie społeczności.
 
 **Krok 3: Pytaj w pokrewnych społecznościach (dyskretnie!) 🗣️**
 Jeśli jesteś już członkiem innych grup o tematyce randkowej lub towarzyskiej, możesz spróbować dyskretnie zapytać o polecenie interesujących Cię grup. Pamiętaj jednak o zachowaniu taktu.

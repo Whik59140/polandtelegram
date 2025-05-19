@@ -40,7 +40,7 @@ Telegram, znany ze swojego nacisku na prywatność i szybkość działania, sta�
 Znalezienie odpowiedniej grupy może wydawać się wyzwaniem, ale z naszymi wskazówkami pójdzie Ci gładko!
 
 1.  **Używaj trafnych słów kluczowych:** W wyszukiwarce Telegrama wpisuj frazy takie jak: "single Wrocław", "randki Wrocław", "Wrocław poznajmy się", "spotkania Wrocław", "Wrocławianie single". Dodanie roku "2025" może pomóc znaleźć najnowsze i najbardziej aktywne grupy.
-2.  **Korzystaj z katalogów grup:** Istnieją strony internetowe specjalizujące się w katalogowaniu grup na Telegramie. To prawdziwa kopalnia wiedzy! Przeglądaj nasze [Grupy Telegram](/grupy) na telegram-polska.com, gdzie często możesz filtrować społeczności według zainteresowań czy lokalizacji.
+2.  **Korzystaj z katalogów grup:** Istnieją strony internetowe specjalizujące się w katalogowaniu grup na Telegramie. To prawdziwa kopalnia wiedzy! Przeglądaj nasze [Grupy Telegram](/grupy) na polska-telegram.pl, gdzie często możesz filtrować społeczności według zainteresowań czy lokalizacji.
 3.  **Pytaj znajomych:** Może ktoś z Twoich znajomych już korzysta z takich grup i może Ci coś polecić? Marketing szeptany bywa bardzo skuteczny! 😉
 4.  **Sprawdzaj lokalne fora i grupy na innych platformach:** Czasem informacje o ciekawych grupach na Telegramie pojawiają się na lokalnych forach internetowych lub w grupach na Facebooku poświęconych Wrocławiowi.
 

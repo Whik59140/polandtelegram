@@ -40,7 +40,7 @@ Znalezienie odpowiedniej grupy na Telegramie może wydawać się na początku wy
 
 1.  **Wbudowana Wyszukiwarka Telegrama:** To podstawowe narzędzie. Wpisuj frazy kluczowe takie jak "gay Poznań", "LGBT Poznań", "randki gej Poznań", "Poznań tęcza" itp. Eksperymentuj z różnymi kombinacjami. 🕵️‍♂️
 2.  **Polecenia od Znajomych:** Jeśli masz znajomych w społeczności, zapytaj ich o polecane grupy. To często najlepszy sposób na trafienie do sprawdzonych i aktywnych miejsc.
-3.  **Katalogi Grup Online:** Istnieją strony internetowe i fora, które agregują linki do grup Telegram. Warto poszukać takich zasobów. Możesz również przeglądać nasze [Katalogi Grup Telegram](/katalogi) na telegram-polska.com, gdzie staramy się gromadzić ciekawe społeczności z różnych kategorii.
+3.  **Katalogi Grup Online:** Istnieją strony internetowe i fora, które agregują linki do grup Telegram. Warto poszukać takich zasobów. Możesz również przeglądać nasze [Katalogi Grup Telegram](/katalogi) na polska-telegram.pl, gdzie staramy się gromadzić ciekawe społeczności z różnych kategorii.
 4.  **Media Społecznościowe i Fora:** Czasami linki do grup Telegram są udostępniane na innych platformach społecznościowych dedykowanych społeczności LGBTQ+ lub na forach internetowych.
 5.  **Zwróć Uwagę na Opis Grupy:** Przed dołączeniem przeczytaj dokładnie opis grupy, regulamin (jeśli jest dostępny), sprawdź liczbę członków i, jeśli to możliwe, ostatnią aktywność. To pomoże Ci ocenić, czy grupa odpowiada Twoim oczekiwaniom.
 

@@ -52,7 +52,7 @@ Pamiętaj, że randkowanie online, niezależnie od platformy, wymaga cierpliwoś
 Znalezienie odpowiednich grup randkowych na Telegramie w [City/Region] może wydawać się wyzwaniem, ale z kilkoma wskazówkami stanie się znacznie prostsze:
 
 *   **Wewnętrzna Wyszukiwarka Telegrama:** Użyj słów kluczowych takich jak "randki [City/Region]", "single [City/Region]", "spotkania [City/Region]", "Telegram randki [City/Region]". Eksperymentuj z różnymi frazami.
-*   **Katalogi Grup Telegram:** Istnieją strony internetowe (takie jak nasza, `telegram-polska.com`!) specjalizujące się w katalogowaniu grup Telegram. Często posiadają one kategorie ułatwiające wyszukiwanie, np. [nasze kategorie randkowe](/kategorie/randki).
+*   **Katalogi Grup Telegram:** Istnieją strony internetowe (takie jak nasza, `polska-telegram.pl`!) specjalizujące się w katalogowaniu grup Telegram. Często posiadają one kategorie ułatwiające wyszukiwanie, np. [nasze kategorie randkowe](/kategorie/randki).
 *   **Polecenia od Znajomych:** Zapytaj znajomych, czy korzystają z Telegrama w celach towarzyskich i czy mogą polecić jakieś aktywne grupy w [City/Region].
 *   **Media Społecznościowe i Fora:** Czasami linki do grup Telegram są udostępniane na lokalnych forach internetowych lub w grupach na Facebooku poświęconych [City/Region].
 *   **Sprawdź Opis i Zasady Grupy:** Zanim dołączysz, przeczytaj opis grupy i jej regulamin. Upewnij się, że odpowiada Twoim oczekiwaniom i że panują w niej zasady sprzyjające kulturalnej wymianie zdań.

@@ -60,7 +60,7 @@ Różnorodność grup na Telegramie jest ogromna! Możesz natknąć się na:
 *   **Grupy "po godzinach" lub bardziej frywolne:** Pamiętaj, że Telegram to także miejsce, gdzie mogą istnieć grupy o charakterze 18+. Zawsze upewnij się, że charakter grupy odpowiada Twoim oczekiwaniom i granicom. 🔞
 *   **Grupy wsparcia dla singli:** Miejsca do dzielenia się doświadczeniami i wzajemnego motywowania.
 
-W typowej grupie randkowej możesz spodziewać się ogłoszeń matrymonialnych (w nowoczesnym wydaniu!), dyskusji na tematy związane z relacjami, organizowania wspólnych wyjść czy po prostu luźnych pogawędek. To świetna okazja, by poznać kogoś ciekawego w mniej formalnej atmosferze. Jeśli szukasz konkretnych tematów lub typów społeczności, przejrzyj nasze [Kategorie Grup Telegram](/kategorie) na telegram-polska.com – być może znajdziesz tam inspirację dla swoich poszukiwań w Łodzi.
+W typowej grupie randkowej możesz spodziewać się ogłoszeń matrymonialnych (w nowoczesnym wydaniu!), dyskusji na tematy związane z relacjami, organizowania wspólnych wyjść czy po prostu luźnych pogawędek. To świetna okazja, by poznać kogoś ciekawego w mniej formalnej atmosferze. Jeśli szukasz konkretnych tematów lub typów społeczności, przejrzyj nasze [Kategorie Grup Telegram](/kategorie) na polska-telegram.pl – być może znajdziesz tam inspirację dla swoich poszukiwań w Łodzi.
 
 ## Bezpieczeństwo Przede Wszystkim: Jak Bezpiecznie Korzystać z Grup Randkowych na Telegramie? 🛡️
 

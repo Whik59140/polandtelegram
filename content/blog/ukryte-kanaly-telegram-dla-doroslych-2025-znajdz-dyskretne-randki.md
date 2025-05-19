@@ -70,7 +70,7 @@ Pamiętaj, że Twoje bezpieczeństwo jest najważniejsze. Korzystaj z możliwoś
 
 Znalezienie tych bardziej ekskluzywnych, "ukrytych" kanałów Telegram wymaga nieco więcej sprytu niż standardowe wyszukiwanie. Oto kilka sprawdzonych metod na 2025 rok:
 
-*   **Specjalistyczne katalogi i strony internetowe:** Istnieją strony i fora internetowe (takie jak nasza, `telegram-polska.com` 😉), które agregują linki do różnych kanałów Telegram, w tym tych o tematyce dla dorosłych. Wiele osób korzysta z takich katalogów, gdzie można przeglądać [Kategorie Kanałów Telegram](/kategorie) i odkrywać nowe, interesujące miejsca.
+*   **Specjalistyczne katalogi i strony internetowe:** Istnieją strony i fora internetowe (takie jak nasza, `polska-telegram.pl` 😉), które agregują linki do różnych kanałów Telegram, w tym tych o tematyce dla dorosłych. Wiele osób korzysta z takich katalogów, gdzie można przeglądać [Kategorie Kanałów Telegram](/kategorie) i odkrywać nowe, interesujące miejsca.
 *   **Polecenia od zaufanych osób:** Jeśli masz znajomych, którzy korzystają z Telegrama w podobnych celach, zapytaj ich o rekomendacje. To często najlepszy sposób na znalezienie sprawdzonych i bezpiecznych społeczności.
 *   **Grupy dyskusyjne i fora poza Telegramem:** Czasami linki do ukrytych kanałów są udostępniane na forach internetowych, grupach na innych platformach społecznościowych (np. Reddit) poświęconych tematyce randkowej lub erotycznej. Zachowaj jednak ostrożność i weryfikuj źródła.
 *   **Wyszukiwarka w Telegramie (z ograniczeniami):** Chociaż "ukryte" kanały z definicji nie są łatwo wyszukiwalne, czasami można natrafić na nie, używając bardzo specyficznych słów kluczowych lub fraz. Efekty mogą być jednak ograniczone.

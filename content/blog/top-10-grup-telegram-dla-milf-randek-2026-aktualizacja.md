@@ -79,7 +79,7 @@ Chociaż grupy na Telegramie są świetną opcją, warto również rozważyć in
 *   **Wydarzenia dla singli:** Speed dating, imprezy tematyczne czy warsztaty dla singli to doskonała okazja do poznania nowych osób w mniej formalnej atmosferze. 🥳
 *   **Media społecznościowe:** Grupy na Facebooku czy innych platformach również mogą być miejscem, gdzie nawiążesz interesujące znajomości.
 
-Jeśli interesują Cię różne aspekty związków i randkowania, być może znajdziesz coś dla siebie w naszej sekcji [Porady Randkowe](/porady/randkowe) na telegram-polska.com. Eksplorowanie różnych kanałów zwiększa Twoje szanse na znalezienie tego, czego szukasz.
+Jeśli interesują Cię różne aspekty związków i randkowania, być może znajdziesz coś dla siebie w naszej sekcji [Porady Randkowe](/porady/randkowe) na polska-telegram.pl. Eksplorowanie różnych kanałów zwiększa Twoje szanse na znalezienie tego, czego szukasz.
 
 ## Podsumowanie
 

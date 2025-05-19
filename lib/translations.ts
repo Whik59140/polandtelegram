@@ -78,7 +78,7 @@ const englishSubcategorySlugsMap: Record<SubcategoryKey, string> = {
 export const siteStrings = {
   siteName: process.env.NEXT_PUBLIC_SITE_NAME || "Telegram Polska",
   siteDescription: `Twój portal #1 do wyszukiwania grup, kanałów, filmów i czatów Telegram w ${COUNTRY_NAME}.`,
-  logoText: process.env.NEXT_PUBLIC_TARGET_SITE_URL || "telegram-polska.com",
+  logoText: process.env.NEXT_PUBLIC_TARGET_SITE_URL || "polska-telegram.pl",
   htmlLang: process.env.NEXT_PUBLIC_CONTENT_LANGUAGE || "pl-PL",
   countryFlag: COUNTRY_FLAG,
   defaultPageTitleSuffix: "Grupy, Kanały, Wideo & Czaty",
@@ -307,7 +307,7 @@ export const siteStrings = {
     sections: [
       {
         heading: "1. Wprowadzenie",
-        content: `Twoja prywatność jest ważna dla ${process.env.NEXT_PUBLIC_SITE_NAME || "Telegram Polska"} ("nas", "my", "nasz"), dlatego niniejsza polityka prywatności wyjaśnia, w jaki sposób gromadzimy, wykorzystujemy, ujawniamy i chronimy Twoje informacje podczas odwiedzania naszej strony ${process.env.NEXT_PUBLIC_TARGET_SITE_URL || "telegram-polska.com"} ("strona"). Prosimy o uważne przeczytanie tego oświadczenia. Jeśli nie zgadzasz się z warunkami niniejszej polityki prywatności, prosimy nie korzystać ze strony.`
+        content: `Twoja prywatność jest ważna dla ${process.env.NEXT_PUBLIC_SITE_NAME || "Telegram Polska"} ("nas", "my", "nasz"), dlatego niniejsza polityka prywatności wyjaśnia, w jaki sposób gromadzimy, wykorzystujemy, ujawniamy i chronimy Twoje informacje podczas odwiedzania naszej strony ${process.env.NEXT_PUBLIC_TARGET_SITE_URL || "polska-telegram.pl"} ("strona"). Prosimy o uważne przeczytanie tego oświadczenia. Jeśli nie zgadzasz się z warunkami niniejszej polityki prywatności, prosimy nie korzystać ze strony.`
       },
       {
         heading: "2. Gromadzenie Informacji",

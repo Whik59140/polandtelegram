@@ -97,7 +97,7 @@ Jeśli zdecydujesz się na eksplorację grup NSFW na Telegramie, pamiętaj o odp
 *   **Weryfikuj Informacje:** Nie wszystko, co przeczytasz lub zobaczysz, jest prawdą.
 *   **Pamiętaj o Prawie:** Upewnij się, że treści, które przeglądasz lub udostępniasz, są legalne.
 
-Świat grup NSFW na Telegramie może być fascynujący, ale jak każda część internetu, wymaga rozwagi i świadomego podejścia. Jeśli szukasz bardziej ogólnych społeczności lub chcesz dowiedzieć się więcej o różnych typach grup, zapoznaj się z naszymi [Poradami dotyczącymi Telegrama](/porady) (uwaga: to przykładowy link, jeśli taka kategoria istnieje na telegram-polska.com).
+Świat grup NSFW na Telegramie może być fascynujący, ale jak każda część internetu, wymaga rozwagi i świadomego podejścia. Jeśli szukasz bardziej ogólnych społeczności lub chcesz dowiedzieć się więcej o różnych typach grup, zapoznaj się z naszymi [Poradami dotyczącymi Telegrama](/porady) (uwaga: to przykładowy link, jeśli taka kategoria istnieje na polska-telegram.pl).
 
 ## Podsumowanie 💡
 Rok 2025 przynosi nowe możliwości, ale i wyzwania w świecie telegramowych grup NSFW dla dorosłych w Polsce. To przestrzeń, która kusi obietnicą dyskrecji i dostępu do unikalnych treści, ale wymaga od użytkowników dużej ostrożności i świadomości potencjalnych ryzyk. 🕵️‍♀️ Pamiętaj o zasadach bezpieczeństwa, dbaj o swoją prywatność i korzystaj z tych zasobów odpowiedzialnie.

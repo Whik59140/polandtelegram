@@ -69,7 +69,7 @@ Znalezienie idealnej grupy może wymagać trochę detektywistycznej pracy. Oto k
 1.  **Wyszukiwarka w Telegramie:** Użyjcie słów kluczowych takich jak "gej Warszawa", "gay Warsaw", "LGBT Warszawa", "Warszawa queer" oraz bardziej specyficznych, np. "Warszawa gej sport", "Warszawa gej randki".
 2.  **Polecenia od znajomych:** Najlepsze grupy często są przekazywane pocztą pantoflową. Zapytajcie znajomych, czy znają jakieś godne polecenia społeczności.
 3.  **Fora internetowe i media społecznościowe:** Czasami linki do grup Telegram są udostępniane na forach LGBTQ+, grupach na Facebooku czy innych platformach.
-4.  **Strony katalogujące grupy:** Istnieją strony internetowe, które agregują linki do grup Telegram. Możecie również przeglądać nasze [Katalogi Grup Telegram](/katalogi) na telegram-polska.com, aby odkryć publicznie dostępne opcje i filtrować według zainteresowań.
+4.  **Strony katalogujące grupy:** Istnieją strony internetowe, które agregują linki do grup Telegram. Możecie również przeglądać nasze [Katalogi Grup Telegram](/katalogi) na polska-telegram.pl, aby odkryć publicznie dostępne opcje i filtrować według zainteresowań.
 5.  **Bądźcie czujni na wydarzeniach:** Czasem podczas eventów LGBTQ+ w Warszawie promowane są dedykowane grupy na Telegramie.
 
 **Przykładowe nazwy (fikcyjne), jakich możecie szukać lub jakie mogą Was zainspirować do tworzenia własnych społeczności:**

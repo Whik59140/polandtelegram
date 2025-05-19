@@ -43,7 +43,7 @@ Zanim zanurzysz się w świat telegramowych randek, pamiętaj o kilku kluczowych
 *   **Opinie innych użytkowników:** Jeśli to możliwe, poszukaj opinii o grupie lub zapytaj znajomych, którzy mogą mieć doświadczenie.
 *   **Czerwone flagi 🚩:** Uważaj na grupy obiecujące nierealistyczne rzeczy, pełne fałszywych profili (tzw. botów lub fejków) lub gdzie panuje chaos i brak kultury. Pamiętaj, że Twoje bezpieczeństwo jest najważniejsze. Ogólne porady dotyczące bezpieczeństwa w sieci, także w kontekście randek, często publikuje [CERT Polska](https://www.cert.pl/ouch/), warto tam zajrzeć.
 
-Pamiętaj, że na naszej platformie `telegram-polska.com` staramy się promować bezpieczne i wartościowe społeczności. Możesz również przeglądać inne [Grupy Telegram](/grupy) dostępne na naszej platformie, aby znaleźć społeczności odpowiadające Twoim zainteresowaniom.
+Pamiętaj, że na naszej platformie `polska-telegram.pl` staramy się promować bezpieczne i wartościowe społeczności. Możesz również przeglądać inne [Grupy Telegram](/grupy) dostępne na naszej platformie, aby znaleźć społeczności odpowiadające Twoim zainteresowaniom.
 
 ## Top 5 Grup Telegram dla Randek w Łodzi w 2025 – Nasz Ekskluzywny Ranking!
 
@@ -100,7 +100,7 @@ Chociaż grupy na Telegramie oferują wiele możliwości, warto pamiętać, że 
 *   **Lokalne wydarzenia i spotkania dla singli:** W Łodzi organizowane są czasem speed dating, imprezy dla singli czy warsztaty tematyczne. To świetna okazja do poznania nowych osób w mniej formalnej atmosferze.
 *   **Grupy zainteresowań (offline):** Dołącz do klubu książki, grupy sportowej, wolontariatu czy kursu językowego. Wspólne pasje to doskonały fundament do budowania nowych relacji, także tych romantycznych.  hobbies
 
-Jeśli interesują Cię również inne formy nawiązywania znajomości, sprawdź naszą główną kategorię [Randki](/randki) na `telegram-polska.com`.
+Jeśli interesują Cię również inne formy nawiązywania znajomości, sprawdź naszą główną kategorię [Randki](/randki) na `polska-telegram.pl`.
 
 ## Podsumowanie: Znajdź Swoje Szczęście w Łodzi z Telegramem (i Rozwagą)! ✨
 
