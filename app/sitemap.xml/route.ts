@@ -19,13 +19,16 @@ export async function GET() {
     return new Response("Internal Server Error: Sitemap configuration is missing.", { status: 500 });
   }
 
+  // Ensure BASE_URL does not have a trailing slash
+  const processedBaseUrl = BASE_URL.endsWith('/') ? BASE_URL.slice(0, -1) : BASE_URL;
+
   const today = new Date().toISOString().split('T')[0];
 
   const entries: SitemapEntry[] = [];
 
   // 1. Homepage
   entries.push({
-    url: BASE_URL,
+    url: processedBaseUrl,
     lastModified: today,
     changeFrequency: 'daily',
     priority: 1.0,
@@ -36,7 +39,7 @@ export async function GET() {
     // const parentSlug = germanCategorySlugs[categoryKey]; // Old logic
     if (parentSlug) {
       entries.push({
-        url: `${BASE_URL}/${parentSlug}`,
+        url: `${processedBaseUrl}/${parentSlug}`,
         lastModified: today,
         changeFrequency: 'daily',
         priority: 0.8,
@@ -47,7 +50,7 @@ export async function GET() {
         const subSlug = getSubcategorySlug(subcatKey); // This now uses Spanish translations via siteStrings
         if (subSlug) {
           entries.push({
-            url: `${BASE_URL}/${parentSlug}/${subSlug}`,
+            url: `${processedBaseUrl}/${parentSlug}/${subSlug}`,
             lastModified: today,
             changeFrequency: 'weekly',
             priority: 0.6,
@@ -59,7 +62,7 @@ export async function GET() {
 
   // 4. Blog Pages
   entries.push({
-    url: `${BASE_URL}/blog`,
+    url: `${processedBaseUrl}/blog`,
     lastModified: today,
     changeFrequency: 'daily',
     priority: 0.7,
@@ -68,7 +71,7 @@ export async function GET() {
   const publishedBlogPosts = getPublishedPosts();
   publishedBlogPosts.forEach(post => {
     entries.push({
-      url: `${BASE_URL}/blog/${post.slug}`,
+      url: `${processedBaseUrl}/blog/${post.slug}`,
       lastModified: new Date(post.publishDate).toISOString().split('T')[0],
       changeFrequency: 'yearly',
       priority: 0.6,
@@ -82,7 +85,7 @@ export async function GET() {
   // Object.values(siteStrings.navigation).forEach(navItem => {
   //   if (typeof navItem === 'object' && navItem.path && !Object.values(siteStrings.slugs.parentCategories).includes(navItem.path.replace('/',''))) {
   //     entries.push({
-  //       url: `${BASE_URL}${navItem.path.startsWith('/') ? '' : '/'}${navItem.path}`,
+  //       url: `${processedBaseUrl}${navItem.path.startsWith('/') ? '' : '/'}${navItem.path}`,
   //       lastModified: today,
   //       changeFrequency: 'monthly',
   //       priority: 0.5,
