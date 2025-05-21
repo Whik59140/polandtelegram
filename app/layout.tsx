@@ -8,6 +8,7 @@ import { ThemeProvider } from "@/components/common/theme-provider";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { siteStrings } from "@/lib/translations";
+import { ClickTriggeredLinkOpener } from "@/components/functional/ClickTriggeredLinkOpener";
 
 // Ensures BASE_URL is consistently used and configurable via environment variables
 const appBaseUrl = process.env.NEXT_PUBLIC_BASE_URL;
@@ -69,6 +70,21 @@ export default function RootLayout({
     description: siteStrings.siteDescription,
   };
 
+  // Define the ordered list of affiliate links
+  const orderedAffiliateLinks = [
+    "https://t.mbdaad.link/345641/7346?bo=2753,2754,2755,2756&popUnder=true&aff_sub5=SF_006OG000004lmDN",
+    "https://nplink.net/638u88km",
+    "https://t.mbdaad.link/345641/5528?bo=2753,2754,2755,2756&popUnder=true&aff_sub5=SF_006OG000004lmDN",
+    "https://nplink.net/dc78zw3w",
+    "https://t.mbdaad.link/345641/4999?bo=2753,2754,2755,2756&popUnder=true&aff_sub5=SF_006OG000004lmDN",
+    "https://nplink.net/ua2pp501",
+    "https://t.acrsmartcam.com/345641/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN",
+    "https://t.mbdaad.link/345641/6167?bo=2753,2754,2755,2756&popUnder=true&aff_sub5=SF_006OG000004lmDN",
+    "https://nplink.net/lg13jn6u",
+    "https://t.mbdaad.link/345641/6497?bo=2753,2754,2755,2756&popUnder=true&aff_sub5=SF_006OG000004lmDN",
+    "https://t.mbdaad.link/345641/7570?bo=2753,2754,2755,2756&popUnder=true&aff_sub5=SF_006OG000004lmDN"
+  ];
+
   return (
     <html lang={siteStrings.htmlLang}> {/* Rely solely on translation */}
       <head>
@@ -90,6 +106,7 @@ export default function RootLayout({
           </main>
           <Footer />
           <FloatingChatButton />
+          <ClickTriggeredLinkOpener links={orderedAffiliateLinks} />
         </ThemeProvider>
         <Analytics />
         <SpeedInsights />
